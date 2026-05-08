@@ -1,4 +1,8 @@
 # french-learning-vault
 
-# This is a vault that record my learning process
+# 今天开始学法语了，法语是一个非常牛逼的语言，帮助你完成加拿大的申请
 
+并且给你的申请会带来很多的好吃，第一个好处，就是，我曾经爱过你
+
+- 第一个
+	- 这个是非常好的处理方式
