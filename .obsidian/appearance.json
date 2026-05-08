@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "accentColor": "#286ec8",
-  "interfaceFontFamily": "maple"
+  "interfaceFontFamily": "maple",
+  "textFontFamily": "maple "
 }
