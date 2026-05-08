@@ -1,2 +1,4 @@
 # french-learning-vault
-French learning notes 
+
+# This is a vault that record my learning process
+
