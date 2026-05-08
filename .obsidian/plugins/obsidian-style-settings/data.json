@@ -14,7 +14,7 @@
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-safari-tab-toggle",
-  "anuppuccin-theme-settings@@anp-layout-select": "none",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "things-style@@mobile-black-background": false,
   "things-style@@active-line": true,
   "things-style@@fancy-code": true,
