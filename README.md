@@ -13,3 +13,7 @@
 - Command + Left：隐藏/展开左侧栏
 - Command + Right：隐藏/展开右侧栏
 - Command + F：查找功能
+
+==法语的命令行==
+
+
