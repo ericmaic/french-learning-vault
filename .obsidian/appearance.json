@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
-  "accentColor": "#ff5d1d"
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#ff5d1d",
+  "interfaceFontFamily": "maple"
 }
