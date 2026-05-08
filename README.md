@@ -18,6 +18,14 @@
 # 标签用法
 - 一级标签：#标签名
 - 二级标签：#标签名/二级标签（例：#提示词/源码）
--  
+
+
+# 用到的插件
+- Git
+- Calendar
+- Tasks
+- Notebook Navigator
+- Style Settings
+- 
 
 
