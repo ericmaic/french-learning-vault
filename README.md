@@ -22,11 +22,14 @@
 - 文件分类做总体归纳，标签做细致归纳；
 
 ## 标签名称分类：
+
 - #语法
 - #词汇
+- #发音 
 - 
 
 # 用到的插件
+
 - Git
 - Calendar
 - Tasks
@@ -34,5 +37,7 @@
 - Style Settings
 - Media Extended
 - 
+
+# 日记或Daily
 
 
