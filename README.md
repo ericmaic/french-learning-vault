@@ -14,6 +14,7 @@
 - Command + Left：隐藏/展开左侧栏
 - Command + Right：隐藏/展开右侧栏
 - Command + F：查找功能
+- Command + 鼠标滚轮：字体大小（要提前设置）
 
 # 标签用法
 
@@ -48,4 +49,6 @@
 # 文件存储
 - 附件存放在ATTACHMENTS文件夹中
 - 
+
+# 调整页面字体大小
 
