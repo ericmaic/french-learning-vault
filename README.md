@@ -86,7 +86,7 @@ metadata
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
 - Banner: 题图
 	- 用法：Command + P -> Banner add local image
--  
+- QuickAdd
 
 ```dataview
 list
