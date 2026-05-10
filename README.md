@@ -2,24 +2,25 @@
 
 # 一. 快捷键列表：
 
-- Command + Enter：在连接处直接打开链接到网页或者到tab页
-- Command + L：从原始的文字，依次切换到todo，todo done
-- Command + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
-- Command + P：打开命令面板
-- Command + Shift + D：新建日记
-- Command + D：删除光标行
-- Command + N：新建一个卡片，或者笔记
-- Command + O：搜索文件的名字
-- Command + ，：打开设置面板
-- Command + Left：隐藏/展开左侧栏
-- Command + Right：隐藏/展开右侧栏
-- Command + E：预览模式与编辑模式切换
-- Command + F：查找功能
-- Command + 鼠标滚轮：字体大小（要提前设置）
-- Command + "+"/"-"：同理
-- Command + K：选中快速插入链接
+- Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
+- Command/Ctrl + L：从原始的文字，依次切换到todo，todo done
+- Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
+- Command/Ctrl + P：打开命令面板
+- Command/Ctrl + Shift + D：新建日记
+- Command/Ctrl + D：删除光标行
+- Command/Ctrl + N：新建一个卡片，或者笔记
+- Command/Ctrl + O：搜索文件的名字
+- Command/Ctrl + ，：打开设置面板
+- Command/Ctrl + Left：隐藏/展开左侧栏
+- Command/Ctrl + Right：隐藏/展开右侧栏
+- Command/Ctrl + E：预模式与编辑模式切换
+- Command/Ctrl + F：查找功能
+- Command/Ctrl + 鼠标滚轮：字体大小（要提前设置）
+- Command/Ctrl + "+"/"-"：同理
+- Command/Ctrl + K：选中快速插入链接
 - "---,---": 包裹的是文件的属性
 - / + 其他: 可以调出命令
+- Option/Alt + 鼠标单击：多光标编辑
 - Tab：缩进
 - Shift + tab：退回缩进
 
