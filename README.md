@@ -211,9 +211,7 @@ where contains(file.name,"Daily")
 
 ### Todo List
 
-\- \[ \] 空格 ：To Do
-- - [ ]   
-- 
-
+- [ ] <->
+- [/] ⛔ 
 
 ![[Pasted image 20260510232706.png]]
