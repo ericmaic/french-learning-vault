@@ -126,6 +126,7 @@ metadata
 	- 用法：只需要\|title\|title\|title\|就可以实现表格
 - Settings Search：setting里面的搜索框
 - Easy Typing：对文字优化处理
+- PDF++：对 PDF 进行标注的插件
 
 
 
