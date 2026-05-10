@@ -93,8 +93,9 @@ metadata
 
 # 四. 用到的插件
 
-- Git
-- Calendar
+- Git：云端同步方案
+	- 用法：跟 Github 仓库建立连接，多设备共享
+- Calendar：
 - Tasks
 - Notebook Navigator
 - Style Settings
