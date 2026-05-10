@@ -82,6 +82,9 @@
 	- 用法：Command + P -> Banner add local image
 - 
 
+```dataview
+```
+
 
 
 ## 可以选配的插件
