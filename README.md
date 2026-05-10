@@ -77,7 +77,12 @@
 - \[\[^引用块\]：当前文本内内容块引用
 - !\[\[^引用块\]\]：展示当前文本块内容
 - \[\[^^引用块\]\]：所有笔记的块内容 
--  
+
+### Callout
+- Obsidian 新语法
+- ```
+  > []
+  ```
 
 
 ## Yaml用法
@@ -102,6 +107,15 @@ metadata
 - Mind Map
 - Admonition: 文字块风格
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
+- List Callout：Callout 升级版
+	- 用法：\- 空格 特俗符号
+	- ! Callout 1
+	- @ Callout 2
+	- $ Callout 3
+	- % Callout 4
+	- & Callout 5
+	- ~ Callout 6
+	- ? Callout 7
 - Banner: 题图
 	- 用法：Command + P -> Banner add local image
 - QuickAdd：
@@ -110,21 +124,8 @@ metadata
 - Settings Search：setting里面的搜索框
 - Easy Typing：对文字优化处理
 
-```
-> [!tip] 不可折叠
-沃日你了der
 
-```
 
-> [!note] hello
-> fef e
-> 
-
-> [!tip] 你好
-> 
-
-```ad-note
-我真的不爱吃
 ```
 
 [!]
@@ -184,3 +185,7 @@ where contains(file.name,"Daily")
 |         |         |         |     |
 |         |         |         |     |
 |         |         |         |     |
+
+
+
+
