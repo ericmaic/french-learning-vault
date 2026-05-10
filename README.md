@@ -144,5 +144,8 @@ where contains(file.name,"Daily")
 
 # Mermaid语法
  
-
-|Title1|title2|title3|
+| column1 | column2 | column3 |     |
+| ------- | ------- | ------- | --- |
+|         |         |         |     |
+|         |         |         |     |
+|         |         |         |     |
