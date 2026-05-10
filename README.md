@@ -211,9 +211,9 @@ where contains(file.name,"Daily")
 
 ### Todo List
 
-- [ ] <->
-- [/] 
-- [x] 
+- [ ] <-> To do \- \[ \]
+- [/] <-> To do \- \[ \]
+- [x]
 - [-] 
 - [>] 
 - [<] 
@@ -227,4 +227,7 @@ where contains(file.name,"Daily")
 - [n] 
 - [l] 
 - [I] 
+- [p] 
+
+
 ![[Pasted image 20260510232706.png]]
