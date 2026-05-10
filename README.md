@@ -75,7 +75,7 @@
 - Heatmap？
 - Mind Map
 - Admonition: 文字块风格
-	- 
+	- 用法：“三个`开始，+ ad-功能标记 + 三个`结束”
 
 
 
