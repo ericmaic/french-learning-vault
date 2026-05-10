@@ -1,4 +1,4 @@
-# french-learning-vault
+%%  %%# french-learning-vault
 
 # 一. 快捷键列表：
 
@@ -132,4 +132,5 @@ where contains(file.name,"Daily")
 
 
 # PDF阅读以及标记
+
 
