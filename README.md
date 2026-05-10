@@ -228,6 +228,8 @@ where contains(file.name,"Daily")
 - [l]     <-> Location \- \[l\]
 - [I]     <-> Idea \- \[I\]
 - [p]     <-> Pro \- \[p\]
+- [c]     <-> Con \- \[c\]
+- [u]     <-> Up \- \[u\]
+- [d]     <-> Down \- \[d\]
 
 
-![[Pasted image 20260510232706.png]]
