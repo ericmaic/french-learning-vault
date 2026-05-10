@@ -109,6 +109,7 @@ metadata
 - Advanced Table：markdown增强表格
 	- 用法：只需要\|title\|title\|title\|就可以实现表格
 - Settings Search：setting里面的搜索框
+- Easy Typing：对文字优化处理
 - 
 
 	
