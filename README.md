@@ -64,7 +64,7 @@
 # 四. 用到的插件
 
 - Git
-- Calendar
+%%  %%- Calendar
 - Tasks
 - Notebook Navigator
 - Style Settings
