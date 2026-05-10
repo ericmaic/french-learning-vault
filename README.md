@@ -19,6 +19,7 @@
 - Command/Ctrl + "+"/"-"：同理
 - Command/Ctrl + K：选中快速插入链接
 - Command/Ctrl + /：注释或者取消注释
+- Command/Ctrl + M: 打开思维导图
 - "---,---": 包裹的是文件的属性
 - / + 其他: 可以调出命令
 - Option/Alt + 鼠标单击：多光标编辑
@@ -98,4 +99,6 @@
 
 # 思维导图
 
-
+- 通过插件Mind Map实现
+- 快捷命令为Command/Ctrl + M打开
+- 可以Copy Screenshot拷贝思维导图
