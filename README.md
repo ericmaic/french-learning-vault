@@ -97,7 +97,6 @@ metadata
 - dragger？
 - Dataview：抽取符合条件的笔记，筛选
 	- 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
-	- 
 - Templater：
 - Heat Map？
 - Mind Map
@@ -110,7 +109,26 @@ metadata
 	- 用法：只需要\|title\|title\|title\|就可以实现表格
 - Settings Search：setting里面的搜索框
 - Easy Typing：对文字优化处理
-- 
+
+```
+> [!tip] 不可折叠
+沃日你了der
+
+```
+
+> [!note] hello
+> fef e
+> 
+
+> [!tip] 你好
+> 
+
+```ad-note
+我真的不爱吃
+```
+
+[!]
+
 
 	
 
