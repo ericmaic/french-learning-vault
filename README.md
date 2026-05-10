@@ -23,6 +23,7 @@
 - Option/Alt + 鼠标单击：多光标编辑
 - Tab：缩进
 - Shift + tab：退回缩进
+- 幻灯片用法：把文字用“---，---包裹就可以实现”
 
 # 二. 标签用法
 
@@ -69,7 +70,7 @@
 - Dataview？
 - Templatar？
 - Heatmap？
--  
+- Mind Map
 
 # 日记或Daily
 
@@ -91,3 +92,6 @@
 ---
 
 ![[Pasted image 20260510000024.png]]
+
+
+# 思维导图
