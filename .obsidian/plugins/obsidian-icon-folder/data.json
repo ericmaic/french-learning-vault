@@ -30,9 +30,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "MOC.md": {
-    "iconName": "LiHome",
-    "iconColor": "#c92626"
   }
 }
