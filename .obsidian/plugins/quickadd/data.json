@@ -1,41 +1,23 @@
 {
   "choices": [
     {
-      "id": "c12786f7-6078-438d-a758-f9d51f1ccb43",
-      "name": "Todo List",
-      "type": "Capture",
+      "id": "20f4e314-492b-4719-9847-3586e758bffd",
+      "name": "ToDo",
+      "type": "Template",
       "command": false,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": false,
-      "captureToCanvasNodeId": "",
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
+      "templatePath": "",
+      "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
-      "insertAfter": {
+      "folder": {
         "enabled": false,
-        "after": "",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top",
-        "inline": false,
-        "replaceExisting": false,
-        "blankLineAfterMatchMode": "auto"
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
       },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": false,
+      "appendLink": false,
       "openFile": false,
       "fileOpening": {
         "location": "tab",
@@ -43,9 +25,8 @@
         "mode": "default",
         "focus": true
       },
-      "templater": {
-        "afterCapture": "none"
-      }
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",
