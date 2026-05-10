@@ -222,12 +222,12 @@ where contains(file.name,"Daily")
 - [i]     <-> Information \- \[i\]
 - [S]     <-> Amount \- \[S\]
 - [*]     <-> Star \- \[\*\]
-- [b]     <-> To do \- \[ \]
-- ["]     <-> To do \- \[ \]
-- [n]     <-> To do \- \[ \]
-- [l]     <-> To do \- \[ \]
-- [I]     <-> To do \- \[ \]
-- [p]     <-> To do \- \[ \]
+- [b]     <-> Bookmark \- \[b\]
+- ["]     <-> Quote \- \["\]
+- [n]     <-> Note \- \[n\]
+- [l]     <-> Location \- \[l\]
+- [I]     <-> Idea \- \[I\]
+- [p]     <-> Pro \- \[p\]
 
 
 ![[Pasted image 20260510232706.png]]
