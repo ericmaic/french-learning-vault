@@ -200,17 +200,13 @@ where contains(file.name,"Daily")
 |         |         |         |     |
 
 
- - [/] 还没有完成呢进行中 in progress
- - [>]  
-
-
 
 # 主题设置
 
 ## Border 主题
 
-### Todo List
-
+### Todo List (List Style)
+ 
 - [ ]     <-> To do \- \[ \]
 - [/]     <-> In Progress \- \[/\]
 - [x]     <-> Done \- \[x\]
