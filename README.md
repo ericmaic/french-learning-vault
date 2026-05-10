@@ -212,9 +212,9 @@ where contains(file.name,"Daily")
 ### Todo List
 
 - [ ]     <-> To do \- \[ \]
-- [/]     <-> To do \- \[/\]
-- [x]     <-> To do \- \[ \]
-- [-]     <-> To do \- \[ \]
+- [/]     <-> I \- \[/\]
+- [x]     <-> To do \- \[x\]
+- [-]     <-> To do \- \[-\]
 - [>]     <-> To do \- \[ \]
 - [<]     <-> To do \- \[ \]
 - [!]     <-> To do \- \[ \]
