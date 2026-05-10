@@ -61,6 +61,12 @@
 - “! + 双链”：引用展示
 - "> + 文字区域"：文字展示区域
 
+# Yaml用法
+
+metadata
+- \---- + \----：三个包裹起来
+- 
+
 # 四. 用到的插件
 
 - Git
@@ -80,7 +86,7 @@
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
 - Banner: 题图
 	- 用法：Command + P -> Banner add local image
-- 
+-  
 
 ```dataview
 list
