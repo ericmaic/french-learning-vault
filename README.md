@@ -221,6 +221,10 @@ where contains(file.name,"Daily")
 - [?] 
 - [i] 
 - [S] 
-
-
+- [*] 
+- [b] 
+- ["] 
+- [n] 
+- [l] 
+- [I] 
 ![[Pasted image 20260510232706.png]]
