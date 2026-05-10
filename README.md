@@ -83,8 +83,10 @@
 - 
 
 ```dataview
+list
+from ""
+where contains(file.name,"Daily")
 ```
-
 
 
 ## 可以选配的插件
