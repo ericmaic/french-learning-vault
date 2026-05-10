@@ -213,14 +213,14 @@ where contains(file.name,"Daily")
 
 - [ ] <->
 - [/] 
-
-
-
-
-
-
-
-
+- [x] 
+- [-] 
+- [>] 
+- [<] 
+- [!] 
+- [?] 
+- [i] 
+- [S] 
 
 
 ![[Pasted image 20260510232706.png]]
