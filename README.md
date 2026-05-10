@@ -89,7 +89,11 @@ metadata
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
 - Banner: 题图
 	- 用法：Command + P -> Banner add local image
-- QuickAdd
+- QuickAdd：
+- Advanced Table：markdown增强表格
+	- 用法：只需要\|title\|title\|title\|就可以实现表格
+
+	
 
 ```dataview
 list
@@ -139,3 +143,4 @@ where contains(file.name,"Daily")
 # Mermaid语法
  
 
+|Title1|title2|title3|
