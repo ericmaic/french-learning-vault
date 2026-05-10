@@ -12,5 +12,7 @@
   "obsidian-admonition",
   "obsidian-banners",
   "quickadd",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "settings-search"
 ]
