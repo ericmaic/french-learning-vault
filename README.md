@@ -4,7 +4,7 @@
 
 - Command + Enter：在连接处直接打开链接到网页或者到tab页
 - Command + L：从原始的文字，依次切换到todo，todo done
-- Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
+- Command + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
 - Command + P：打开命令面板
 - Command + Shift + D：新建日记
 - Command + D：删除光标行
@@ -16,6 +16,8 @@
 - Command + F：查找功能
 - Command + 鼠标滚轮：字体大小（要提前设置）
 - Command + "+"/"-"：同理
+- "---,---": 包裹的是文件的属性
+- / + 其他: 可以调出命令
 
 # 二. 标签用法
 
