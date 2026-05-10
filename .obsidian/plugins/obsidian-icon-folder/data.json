@@ -29,9 +29,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "00-0-INBOX": {
-    "iconName": "LiFolderClosed",
-    "iconColor": "#bac94a"
   }
 }
