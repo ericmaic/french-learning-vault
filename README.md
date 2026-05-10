@@ -74,6 +74,8 @@
 - Templatar？
 - Heatmap？
 - Mind Map
+- Admonition: 警示插件
+	- 用法：
 
 ## 可以选配的插件
 - Note refector：笔记重构，根据title的级别重构为双链笔记
