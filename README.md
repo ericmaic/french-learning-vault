@@ -212,11 +212,11 @@ where contains(file.name,"Daily")
 ### Todo List
 
 - [ ]     <-> To do \- \[ \]
-- [/]     <-> I \- \[/\]
-- [x]     <-> To do \- \[x\]
-- [-]     <-> To do \- \[-\]
-- [>]     <-> To do \- \[ \]
-- [<]     <-> To do \- \[ \]
+- [/]     <-> In Progress \- \[/\]
+- [x]     <-> Done \- \[x\]
+- [-]     <-> Cancelled \- \[-\]
+- [>]     <-> Rescheduled \- \[>\]
+- [<]     <-> Scheduled \- \[<\]
 - [!]     <-> To do \- \[ \]
 - [?]     <-> To do \- \[ \]
 - [i]     <-> To do \- \[ \]
