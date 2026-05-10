@@ -64,18 +64,22 @@
 # 四. 用到的插件
 
 - Git
-%%  %%- Calendar
+- Calendar
 - Tasks
 - Notebook Navigator
 - Style Settings
 - Media Extended
 - dragger？
-- Dataview？
+- Dataview：抽取符合条件的笔记，筛选
+	- 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
+	- 
 - Templatar？
 - Heatmap？
 - Mind Map
 - Admonition: 文字块风格
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
+- Banner: 题图
+	- 用法：Command + P -> Banner add local image
 - 
 
 
