@@ -1,4 +1,4 @@
-%%  %%# french-learning-vault
+# french-learning-vault
 
 # 一. 快捷键列表：
 
