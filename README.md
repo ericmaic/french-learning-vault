@@ -17,7 +17,7 @@
 - Command/Ctrl + F：查找功能
 - Command/Ctrl + 鼠标滚轮：字体大小（要提前设置）
 - Command/Ctrl + "+"/"-"：同理
-- Command/Ctrl + K：选中快速插入链接
+- Command/Ctrl + K：选中快速插入链接 
 - Command/Ctrl + /：注释或者取消注释
 - Command/Ctrl + M: 打开思维导图
 - "---,---": 包裹的是文件的属性
