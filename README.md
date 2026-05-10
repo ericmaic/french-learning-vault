@@ -102,3 +102,4 @@
 - 通过插件Mind Map实现
 - 快捷命令为Command/Ctrl + M打开
 - 可以Copy Screenshot拷贝思维导图
+
