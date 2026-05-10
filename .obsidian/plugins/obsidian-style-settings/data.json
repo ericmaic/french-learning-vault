@@ -59,5 +59,6 @@
   "Editor@@h5-color-select": "h5-color-designated",
   "Editor@@h6-accent-color@@dark": "#FFFFFF",
   "Editor@@h6-color-select": "h6-color-designated",
-  "Editor@@codeblock-style-select": "codeblock-style-one-dark"
+  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@border-focus-mode": true
 }
