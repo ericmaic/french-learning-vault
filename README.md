@@ -189,7 +189,7 @@ where contains(file.name,"Daily")
 
 
 # CSS Style
-- List outline：
+- List outline：列表的层级线条
 
 
 # PDF阅读以及标记
