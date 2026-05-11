@@ -2,6 +2,8 @@
 
 # 一. 快捷键列表：
 
+## A-Z:
+
 - Command/Ctrl + A: 快速启动 QuickAdd
 - Command/Ctrl + B: 加粗，取消加粗
 - Command/Ctrl + D：删除光标行
@@ -20,7 +22,7 @@
 - Command/Ctrl + W: 关闭当前标签页
 - Command/Ctrl + Z: 文字宏，补全
 
- Command/Ctrl + Left：隐藏/展开左侧栏
+- Command/Ctrl + Left：隐藏/展开左侧栏
 - Command/Ctrl + Right：隐藏/展开右侧栏
 - Command/Ctrl + ,: 打开设置面板 
 - Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
