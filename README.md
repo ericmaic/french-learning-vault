@@ -290,10 +290,11 @@ about: >
 - Online YAML Parsers
 ---
 
-- **Front Matter（metadata)** :
+- **Front Matter（metadata)**：
+- 代表笔记的属性，笔记的身份信息
+- 使整个
 
 - **AI 提示词**：
--  
 
 
 
