@@ -444,3 +444,4 @@ where contains(file.name,"Daily")
 
 AI + claude or codex，or kimi or chatgpt
 
+obsidian://open?vault=french-learning-vault&file=README
