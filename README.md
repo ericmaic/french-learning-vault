@@ -322,9 +322,14 @@ about: >
 - **Templater** ：
 - **QuickAdd** ：
 
-- **Notebook Navigator** :
--  
+## 3.增强插件
+
 - **Media Extended** : 增强多媒体管理，视频时间戳以及回顾
+
+## 4.功能插件
+
+- **Notebook Navigator** :
+- 
 - **Dragger** :
 - **Heat Map** :
 - **Mind Map** :
