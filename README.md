@@ -104,7 +104,7 @@ metadata
 
 - Git：云端同步方案
 	- 用法：跟 Github 仓库建立连接，多设备共享
-- Calendar：
+- Calendar：日历插件
 - Tasks
 - Notebook Navigator
 - Style Settings
