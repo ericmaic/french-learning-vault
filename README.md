@@ -330,7 +330,7 @@ about: >
 - **Advanced URI** ：使用时间戳给笔记链接增加唯一性和稳定性；浏览器也可以访问到
 - **List Callout** ：Callout 升级版
 - - 用法：\- 空格 特俗符号
-- - ! Callout 1
+- ! 
 - - @ Callout 2
 - - $ Callout 3
 - - % Callout 4
