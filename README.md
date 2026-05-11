@@ -155,7 +155,14 @@
 > [!info] INFO
 >> [!check] CHECK
 >> Check the information
+- *自带类型*：
+> [!note] Note, Seealso
 
+> [!abstract] Abstract, Summary, tldr
+
+> [!info] Info, Todo
+
+> [!tip] Tip, Hint
 
 
 ## 4. LaTex 数学公式
