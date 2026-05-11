@@ -291,7 +291,7 @@ where contains(file.name,"Daily")
 - [d]     <-> Down \- \[d\]
 
 
-Web Clipper
+## Obsidian Web Clipper 剪藏
 
 AI + claude or codex，or kimi or chatgpt
 
