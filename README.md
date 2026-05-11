@@ -4,9 +4,9 @@
 
 ## A-Z:
 
-- Command/Ctrl + A: 快速启动 QuickAdd
-- Command/Ctrl + B: 加粗，取消加粗
-- Command/Ctrl + D：删除光标行
+- **Command/Ctrl + A**: 快速启动 QuickAdd
+- **Command/Ctrl + B**: 加粗，取消加粗
+- **Command/Ctrl + D**：删除光标行
 - Command/Ctrl + E：预模式与编辑模式切换
 - Command/Ctrl + F：查找功能
 - Command/Ctrl + G: 打开关系图谱
