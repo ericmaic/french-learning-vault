@@ -328,7 +328,15 @@ about: >
 - **Advanced Table** ：markdown增强表格
 - 	- 用法：只需要\|title\|title\|title\|就可以实现表格
 - **Advanced URI** ：使用时间戳给笔记链接增加唯一性和稳定性；浏览器也可以访问到
--  
+- **List Callout** ：Callout 升级版
+- - 用法：\- 空格 特俗符号
+- - ! Callout 1
+- - @ Callout 2
+- - $ Callout 3
+- - % Callout 4
+- - & Callout 5
+- - ~ Callout 6
+- - ? Callout 7
 
 ## 4.功能插件
 
@@ -348,6 +356,8 @@ about: >
 	- & Callout 5
 	- ~ Callout 6
 	- ? Callout 7
+
+
 - **Banner** : 题图
 	- 用法：Command + P -> Banner add local image
 - 
