@@ -220,6 +220,9 @@
 
 ## 6. Yaml/Property 语法
 
+- Obsidian 笔记顶部可以写属性
+- 
+
 metadata
 - \---- + \----：三个包裹起来
 - 
