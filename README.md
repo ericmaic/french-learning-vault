@@ -22,6 +22,7 @@
 - Command/Ctrl + W: 关闭当前标签页
 - Command/Ctrl + Z: 文字宏，补全
 
+
 - Command/Ctrl + Left：隐藏/展开左侧栏
 - Command/Ctrl + Right：隐藏/展开右侧栏
 - Command/Ctrl + ,: 打开设置面板 
