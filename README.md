@@ -11,7 +11,9 @@
 - **Command/Ctrl + E** ：预模式与编辑模式切换
 - **Command/Ctrl + F** ：查找功能
 - **Command/Ctrl + G** : 打开关系图谱
+- **Command/Ctrl + H** : 最小化窗口
 - **Command/Ctrl + I** : 倾斜，取消倾斜
+- **Command/Ctrl + J** : 
 - **Command/Ctrl + K** ：选中快速插入链接 
 - **Command/Ctrl + L** ：从原始的文字，依次切换到todo，todo done
 - **Command/Ctrl + M** : 打开思维导图
@@ -19,10 +21,14 @@
 - **Command/Ctrl + O** ：搜索文件的名字
 - **Command/Ctrl + P** ：打开命令面板
 - **Command/Ctrl + Q** ：退出窗口，关闭
+- **Command/Ctrl + R** : 
 - **Command/Ctrl + S** : 保存当前文件
 - **Command/Ctrl + T** : 新标签页
+- **Command/Ctrl + U** : 
 - **Command/Ctrl + V** : 粘贴
 - **Command/Ctrl + W** : 关闭当前标签页
+- **Command/Ctrl + X** : 剪切
+- **Command/Ctrl + Y** : 
 - **Command/Ctrl + Z** : 撤销操作
 - **Command/Ctrl + Z** : 文字宏，补全
 
