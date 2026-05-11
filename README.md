@@ -10,6 +10,7 @@
 - **Command/Ctrl + E**：预模式与编辑模式切换
 - **Command/Ctrl + F**：查找功能
 - **Command/Ctrl + G**: 打开关系图谱
+- **Command/Ctrl + I**: 倾斜，取消倾斜
 - **Command/Ctrl + K**：选中快速插入链接 
 - **Command/Ctrl + L**：从原始的文字，依次切换到todo，todo done
 - **Command/Ctrl + M**: 打开思维导图
