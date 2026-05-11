@@ -292,7 +292,9 @@ about: >
 
 - **Front Matter（metadata)**：
 - 代表笔记的属性，笔记的身份信息
-- 使整个
+- 使整个知识库的笔记升级为个人数据库
+- Dataview 依赖于 yaml 元数据 
+- Base 数据库本质是 yaml 文件
 
 - **AI 提示词**：
 
