@@ -1,8 +1,8 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\n\nobs : ",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\n\nobs : Hello readers, I am Ericmaic!",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "obs : "
+    "obs : Hello readers, I am Ericmaic!"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
