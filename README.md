@@ -19,6 +19,7 @@
 - Command/Ctrl + K：选中快速插入链接 
 - Command/Ctrl + /：注释或者取消注释
 - Command/Ctrl + M: 打开思维导图
+- Command/Ctrl + Z: 文字宏
 - "---,---": 包裹的是文件的属性
 - / + 其他: 可以调出命令
 - Option/Alt + 鼠标单击：多光标编辑
