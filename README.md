@@ -325,6 +325,10 @@ about: >
 ## 3.增强插件
 
 - **Media Extended** : 增强多媒体管理，视频时间戳以及回顾
+- **Advanced Table** ：markdown增强表格
+- 	- 用法：只需要\|title\|title\|title\|就可以实现表格
+- **Advanced URI** ：使用时间戳给笔记链接增加唯一性和稳定性；浏览器也可以访问到
+-  
 
 ## 4.功能插件
 
@@ -346,8 +350,7 @@ about: >
 	- ? Callout 7
 - **Banner** : 题图
 	- 用法：Command + P -> Banner add local image
-- **Advanced Table** ：markdown增强表格
-	- 用法：只需要\|title\|title\|title\|就可以实现表格
+- 
 - **Settings Search** ：setting里面的搜索框
 - **Easy Typing** ：对文字优化处理
 - **PDF++** ：对 PDF 进行标注的插件
@@ -356,8 +359,7 @@ about: >
 	- 用法：\%\% waypoint \%\%
 - **Text Snippets** ：文件快捷输入，宏设定
 	- 用法：快捷键 - Command + Z
-- **Advanced URI** ：使用时间戳给笔记链接增加唯一性和稳定性；浏览器也可以访问到
- 
+- 
 
 ```
 
