@@ -134,13 +134,13 @@
 
 ## 3. Callout 语法
 
-- *语法*：
+- **语法**：
 - \>空格\[\!标注类型\] name（可选择，修改名字）
 - \>标注文字
 
-- *分为可折叠(有“-”)/不可折叠(无“-”)*:
+- **分为可折叠(有“-”)/不可折叠(无“-”)**:
 - \>空格\[\!标注类型\]\- name（可选择，修改名字）
-- *例子*:
+- **例子**:
 > [!note]- FOLD
 > 
 > This is an example... 
@@ -152,12 +152,12 @@
 > This is an example...
 > This is an example...
 
-- *可嵌套*：
+- **可嵌套**：
 > [!info] INFO
 >> [!check] CHECK
 >> Check the information
 
-- *自带类型*：
+- **自带类型**：
 > [!note] Note, Seealso
 
 > [!abstract] Abstract, Summary, tldr
