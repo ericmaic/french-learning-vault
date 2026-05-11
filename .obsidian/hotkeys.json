@@ -40,12 +40,5 @@
       "key": "A"
     }
   ],
-  "text-snippets-obsidian:text-snippets": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ]
+  "text-snippets-obsidian:text-snippets": []
 }

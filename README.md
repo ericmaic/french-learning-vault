@@ -6,6 +6,7 @@
 
 - **Command/Ctrl + A** : 快速启动 QuickAdd
 - **Command/Ctrl + B** : 加粗，取消加粗
+- **Command/Ctrl + C** : 复制
 - **Command/Ctrl + D** ：删除光标行
 - **Command/Ctrl + E** ：预模式与编辑模式切换
 - **Command/Ctrl + F** ：查找功能
@@ -19,7 +20,9 @@
 - **Command/Ctrl + P** ：打开命令面板
 - **Command/Ctrl + S** : 保存当前文件
 - **Command/Ctrl + T** : 新标签页
+- **Command/Ctrl + V** : 粘贴
 - **Command/Ctrl + W** : 关闭当前标签页
+- **Command/Ctrl + Z** : 撤销操作
 - **Command/Ctrl + Z** : 文字宏，补全
 
 ## Others 1:
@@ -81,8 +84,8 @@
 
 - **“- + 空格 + \[ 空格 \] + 空格”** ：todo列表项
 - **“\[+名字\]\(+链接\)”** ：超链接
-- “\[\[+内容\]\]”：obsidian双链
-- “! + 双链”：引用展示
+- 
+- 
 - "> + 文字区域"：文字展示区域
 - "\[^\]"：标注
 - “\[\[#+标题内容\]\]”：文本内跳转相应的标题项内容
@@ -91,6 +94,9 @@
 - “\-\-\-”：分隔符
 
 ## Obsidian 语法
+
+- **“\[\[+内容\]\]”** ：obsidian 双链
+- **“! + 双链”** ：引用展示
 
 
 ## 进阶语法
