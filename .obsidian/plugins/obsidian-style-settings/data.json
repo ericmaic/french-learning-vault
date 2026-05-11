@@ -30,7 +30,7 @@
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default",
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
   "Appearance-dark@@card-layout-open-dark": true,
-  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
   "Appearance-dark@@card-highlight-dark": true,
   "Components@@CTA-BTN-enable": false,
   "Components@@folder-font-bold": true,
@@ -61,5 +61,9 @@
   "Editor@@h6-color-select": "h6-color-designated",
   "Editor@@codeblock-style-select": "codeblock-style-one-dark",
   "Editor@@border-focus-mode": false,
-  "Components@@immersive-canvas": false
+  "Components@@immersive-canvas": false,
+  "Components@@new-tab-image-select": "new-tab-image-default",
+  "Editor@@line-hover-indicator": true,
+  "Editor@@focus-indicator-list-level": false,
+  "Editor@@focus-indicator-codeblock-line-number": false
 }
