@@ -7,6 +7,7 @@
   "monospaceFontFamily": "Maple Mono NF CN,Fira Code",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "list-outline"
+    "list-outline",
+    "CardsShow"
   ]
 }

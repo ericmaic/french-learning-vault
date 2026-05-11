@@ -1,0 +1,101 @@
+/**
+ * 卡片视图
+ * @author: 稻米鼠
+ * @description: 用于显示卡片的 callout 视图
+ * @created: 2024-05-04
+ * @updated: 2024-05-04
+ * @version: 0.0.1
+ */
+.callout[data-callout="cards-show"] {
+  --callout-color: 255, 233, 160; /** 主色調但不影響背景色 */
+  --callout-icon: panel-top-open; /** 图标，但默认不显示 */
+  --callout-width: 25% - 1rem; /** 卡片宽度，默认为 25%，-1rem 用作间距 */
+  --callout-height: 12rem; /** 卡片高度 */
+  background: rgba(0, 0, 0, 0.03);
+  container-type: inline-size;
+  container-name: cards-show;
+}
+@container cards-show (max-width: 768px) {
+  .callout[data-callout="cards-show"] > .callout-title,
+  .callout[data-callout="cards-show"] > .callout-content {
+    --callout-width: 33% - 1rem;
+  }
+}
+@container cards-show (max-width: 600px) {
+  .callout[data-callout="cards-show"] > .callout-title,
+  .callout[data-callout="cards-show"] > .callout-content {
+    --callout-width: 50% - 1rem;
+  }
+}
+@container cards-show (max-width: 480px) {
+  .callout[data-callout="cards-show"] > .callout-title,
+  .callout[data-callout="cards-show"] > .callout-content {
+    --callout-width: 100%;
+  }
+}
+.callout[data-callout="cards-show"] > .callout-title,
+.callout[data-callout="cards-show"] > .callout-content ul > li,
+.callout[data-callout="cards-show"] > .callout-content ol > li {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  width: calc(var(--callout-width));
+  height: var(--callout-height);
+  padding: 1rem;
+  margin: 0;
+  color: var(--text-normal);
+  background-color: rgb(var(--callout-color));
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+}
+.callout[data-callout="cards-show"].is-collapsed {
+  background: none;
+}
+.callout[data-callout="cards-show"].is-collapsed > .callout-title::before,
+.callout[data-callout="cards-show"].is-collapsed > .callout-title::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(var(--callout-color));
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+  content: " ";
+}
+.callout[data-callout="cards-show"].is-collapsed > .callout-title::before {
+  transform: rotate(3deg);
+}
+.callout[data-callout="cards-show"].is-collapsed > .callout-title::after {
+  transform: rotate(-3deg);
+}
+.callout[data-callout="cards-show"] > .callout-title > .callout-icon,
+.callout[data-callout="cards-show"] > .callout-title > .callout-fold {
+  display: none;
+}
+.callout[data-callout="cards-show"] > .callout-title > .callout-title-inner {
+  font-weight: normal;
+  font-size: 1rem;
+}
+.callout[data-callout="cards-show"] > .callout-content {
+  padding: 1rem 0;
+  overflow: auto;
+}
+.callout[data-callout="cards-show"] > .callout-content ul,
+.callout[data-callout="cards-show"] > .callout-content ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: start;
+  margin: 0;
+  padding: .5rem 0;
+}
+.callout[data-callout="cards-show"] > .callout-content ul > li,
+.callout[data-callout="cards-show"] > .callout-content ol > li {
+  margin-bottom: 0.5rem;
+  overflow: scroll;
+  text-align: justify;
+  list-style: none;
+  background-color: rgba(var(--callout-color), 0.5);
+}
+
