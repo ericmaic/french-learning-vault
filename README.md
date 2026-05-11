@@ -137,6 +137,7 @@
 - *语法*：
 - \>空格\[\!标注类型\] name（可选择，修改名字）
 - \>标注文字
+
 - *分为可折叠(有“-”)/不可折叠(无“-”)*:
 - \>空格\[\!标注类型\]\- name（可选择，修改名字）
 - *例子*:
@@ -155,6 +156,7 @@
 > [!info] INFO
 >> [!check] CHECK
 >> Check the information
+
 - *自带类型*：
 > [!note] Note, Seealso
 
@@ -166,9 +168,20 @@
 
 > [!success] Success, Check, Done
 
+> [!question] Question, Help, Faq
+
+> [!warning] Warning, Caution, Attention
+
+> [!failure] Failure, Fail, Missing
+
+> [!danger] Danger, Error
+
+> [!bug] Bug
+
+> [!example] Example
 > 
 
-
+> [!quote] Quote, Cite
 
 
 ## 4. LaTex 数学公式
