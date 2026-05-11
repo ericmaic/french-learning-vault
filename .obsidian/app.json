@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "99-ATTACHMENTS/A-Images",
   "readableLineLength": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showLineNumber": true
 }

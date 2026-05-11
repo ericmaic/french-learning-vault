@@ -296,7 +296,7 @@ about: >
 - Dataview 依赖于 yaml 元数据 
 - Base 数据库本质是 yaml 文件
 - 数据库很大的数据来源是 markdown 笔记中的 yaml 部分
-- Obsidian 提供了属性的功能，可视化界面
+- Obsidian 提供了属性的功能，可视化界面 
 
 - **AI 提示词**：
 
