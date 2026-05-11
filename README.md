@@ -7,6 +7,8 @@
 - Command/Ctrl + D：删除光标行
 - Command/Ctrl + E：预模式与编辑模式切换
 - Command/Ctrl + F：查找功能
+- Command/Ctrl + G: 打开关系图谱
+- Command/Ctrl + I: 斜体，取消斜体
 - Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
 - Command/Ctrl + L：从原始的文字，依次切换到todo，todo done
 - Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
