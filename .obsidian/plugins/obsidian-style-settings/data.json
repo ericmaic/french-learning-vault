@@ -60,5 +60,6 @@
   "Editor@@h6-accent-color@@dark": "#FFFFFF",
   "Editor@@h6-color-select": "h6-color-designated",
   "Editor@@codeblock-style-select": "codeblock-style-one-dark",
-  "Editor@@border-focus-mode": true
+  "Editor@@border-focus-mode": false,
+  "Components@@immersive-canvas": false
 }
