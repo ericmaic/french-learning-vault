@@ -220,8 +220,49 @@
 
 ## 8. Yaml/Property 语法
 
+- **适用于**：
+	- Markdown 元数据（Obsidian 等）
+	- AI 提示词格式（同 JSON）
+	- 配置文件（智能家居，PC 游戏插件和 mod ）
 - Obsidian 笔记顶部可以写属性
-- 语法：
+- 可以作为独立文件存在以.yaml 结尾
+- 可以作为 markdown 文件开头的元数据区
+- **格式**：==关键词语: 值==（引文冒号，空格）
+- Yaml 对于空格和缩进是敏感的
+	- 使用空格进行缩进，避免使用 Tab
+	- 缩进需要保持一致
+	- 冒号和短横线后必须跟一个空格
+- **语法**：
+- *键值对表示*：值可以为“字符串 String”，“数字 Number”，“布尔值（Boolean）”，“空值（Null）”
+- String：不需要引号包裹
+	- '': 单引号，不会转义特殊字符，视为字面量
+	- "": 双引号，会转移特殊字符： `quoteString: "This is a String with a \n newline"`
+- Number: 包括整数，浮点数
+- Boolean：true，false
+- Null: null, ~
+- *序列*：是一组有序的值，类似于数组或列表；每个列表项由一个短横线“-”和空格开头
+```python
+#水果列表
+fruits:
+ - Apples
+ - Pear
+ - Watermelon
+ 
+#也可以使用行内inline格式
+fruites_inline: [Apples, Pear, Watermelon] 
+```
+
+- *映射*：映射是键值对的集合，类似于字典或者哈希表
+```python
+user:
+ name: Tom
+ age: 30
+ email: 1234@gmail.com
+ 
+#也可以使用行内
+user_inline: {name: Tom, age:30, email: 1234@gmail.com}
+```
+
 ---
 title:
 
