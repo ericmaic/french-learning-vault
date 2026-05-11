@@ -1,8 +1,8 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\n\nobs:我是你爹的废物",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\n\nobs : ",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "obs:我是你爹的废物"
+    "obs : "
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
