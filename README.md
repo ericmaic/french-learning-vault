@@ -18,6 +18,7 @@
 - **Command/Ctrl + N** ：新建一个卡片，或者笔记
 - **Command/Ctrl + O** ：搜索文件的名字
 - **Command/Ctrl + P** ：打开命令面板
+- **Command/Ctrl + Q** ：退出窗口，关闭
 - **Command/Ctrl + S** : 保存当前文件
 - **Command/Ctrl + T** : 新标签页
 - **Command/Ctrl + V** : 粘贴
