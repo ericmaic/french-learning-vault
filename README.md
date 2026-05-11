@@ -22,7 +22,7 @@
 - Command/Ctrl + W: 关闭当前标签页
 - Command/Ctrl + Z: 文字宏，补全
 
-## Others:
+## Others 1:
 
 - Command/Ctrl + Left：隐藏/展开左侧栏
 - Command/Ctrl + Right：隐藏/展开右侧栏
@@ -32,10 +32,10 @@
 - Command/Ctrl + Shift + D：新建日记
 - Command/Ctrl + 鼠标滚轮：字体大小（要提前设置）
 - Command/Ctrl + "+"/"-"：同理
-- 
 - Command/Ctrl + /：注释或者取消注释
-- 
--
+
+## Others 2:
+
 - "---,---": 包裹的是文件的属性
 - / + 其他: 可以调出命令
 - Option/Alt + 鼠标单击：多光标编辑
