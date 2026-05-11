@@ -1,8 +1,8 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\n\nobs : Hello readers, I am Ericmaic!",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n\n\nrc : Command/Ctrl +",
   "snippets": [
     "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "obs : Hello readers, I am Ericmaic!"
+    "rc : Command/Ctrl +"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
