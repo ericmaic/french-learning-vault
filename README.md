@@ -135,6 +135,8 @@ metadata
 - Settings Search：setting里面的搜索框
 - Easy Typing：对文字优化处理
 - PDF++：对 PDF 进行标注的插件
+- Export Image：把笔记导出为图片
+- Waypoint：在每个目录下建立一个索引文档
 
 
 
