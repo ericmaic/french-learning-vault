@@ -312,6 +312,7 @@ about: >
 - **Git** ：云端同步方案
 	- 用法：跟 Github 仓库建立连接，多设备共享
 - **Calendar** ：日历插件
+- **Style Settings** : 设置样式
 
 ## 2. 核心插件
 
@@ -322,7 +323,7 @@ about: >
 - **QuickAdd** ：
 
 - **Notebook Navigator** :
-- **Style Settings** : 
+-  
 - **Media Extended** : 增强多媒体管理，视频时间戳以及回顾
 - **Dragger** :
 - **Heat Map** :
