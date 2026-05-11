@@ -26,21 +26,21 @@
 
 - **Command/Ctrl + Left** ：隐藏/展开左侧栏
 - **Command/Ctrl + Right** ：隐藏/展开右侧栏
-- **Command/Ctrl + ,**: 打开设置面板 
-- Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
-- Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
-- Command/Ctrl + Shift + D：新建日记
-- Command/Ctrl + 鼠标滚轮：字体大小（要提前设置）
-- Command/Ctrl + "+"/"-"：同理
-- Command/Ctrl + /：注释或者取消注释
+- **Command/Ctrl + ,** : 打开设置面板 
+- **Command/Ctrl + Enter** ：在连接处直接打开链接到网页或者到tab页
+- **Command/Ctrl + 点击编辑书页图标** ：切换编辑和只读模式在新tab中建立
+- **Command/Ctrl + Shift + D** ：新建日记
+- **Command/Ctrl + 鼠标滚轮** ：字体大小（要提前设置）
+- **Command/Ctrl + "+"/"-"** ：同理
+- **Command/Ctrl + /** ：注释或者取消注释
 
 ## Others 2:
 
-- "---,---": 包裹的是文件的属性；里面可以添加 alias 设置文件的别名
-- / + 其他: 可以调出命令
-- Option/Alt + 鼠标单击：多光标编辑
-- Tab：缩进
-- Shift + tab：退回缩进
+- **"---,---"** : 包裹的是文件的属性；里面可以添加 alias 设置文件的别名
+- **/ + 其他** : 可以调出命令
+- **Option/Alt + 鼠标单击** ：多光标编辑
+- **Tab** ：缩进
+- **Shift + Tab** ：退回缩进
 - 幻灯片用法：把文字用“---，---包裹就可以实现”
 
 # 二. 标签用法
