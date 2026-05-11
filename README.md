@@ -4,29 +4,29 @@
 
 ## A-Z:
 
-- **Command/Ctrl + A**: 快速启动 QuickAdd
-- **Command/Ctrl + B**: 加粗，取消加粗
-- **Command/Ctrl + D**：删除光标行
-- **Command/Ctrl + E**：预模式与编辑模式切换
-- **Command/Ctrl + F**：查找功能
-- **Command/Ctrl + G**: 打开关系图谱
-- **Command/Ctrl + I**: 倾斜，取消倾斜
-- **Command/Ctrl + K**：选中快速插入链接 
-- **Command/Ctrl + L**：从原始的文字，依次切换到todo，todo done
-- **Command/Ctrl + M**: 打开思维导图
-- **Command/Ctrl + N**：新建一个卡片，或者笔记
-- **Command/Ctrl + O**：搜索文件的名字
-- **Command/Ctrl + P**：打开命令面板
-- **Command/Ctrl + S**: 保存当前文件
-- **Command/Ctrl + T**: 新标签页
-- **Command/Ctrl + W**: 关闭当前标签页
-- **Command/Ctrl + Z**: 文字宏，补全
+- **Command/Ctrl + A** : 快速启动 QuickAdd
+- **Command/Ctrl + B** : 加粗，取消加粗
+- **Command/Ctrl + D** ：删除光标行
+- **Command/Ctrl + E** ：预模式与编辑模式切换
+- **Command/Ctrl + F** ：查找功能
+- **Command/Ctrl + G** : 打开关系图谱
+- **Command/Ctrl + I** : 倾斜，取消倾斜
+- **Command/Ctrl + K** ：选中快速插入链接 
+- **Command/Ctrl + L** ：从原始的文字，依次切换到todo，todo done
+- **Command/Ctrl + M** : 打开思维导图
+- **Command/Ctrl + N** ：新建一个卡片，或者笔记
+- **Command/Ctrl + O** ：搜索文件的名字
+- **Command/Ctrl + P** ：打开命令面板
+- **Command/Ctrl + S** : 保存当前文件
+- **Command/Ctrl + T** : 新标签页
+- **Command/Ctrl + W** : 关闭当前标签页
+- **Command/Ctrl + Z** : 文字宏，补全
 
 ## Others 1:
 
-- Command/Ctrl + Left：隐藏/展开左侧栏
-- Command/Ctrl + Right：隐藏/展开右侧栏
-- Command/Ctrl + ,: 打开设置面板 
+- **Command/Ctrl + Left** ：隐藏/展开左侧栏
+- **Command/Ctrl + Right** ：隐藏/展开右侧栏
+- **Command/Ctrl + ,**: 打开设置面板 
 - Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
 - Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
 - Command/Ctrl + Shift + D：新建日记
