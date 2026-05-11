@@ -123,7 +123,7 @@
 - **“\[\[文件名|别名\]\]”** ：Alias别名，给文件创建别名，让名字更有意思，搜索更快捷；可以在metadata里应用，作为aliases项
 
 
-## 3. 引用语法
+## 3. Cite 语法
 
 - **\[\[\]\]** ：双链引用
 - **!\[\[\]\]** ：展示引用内容
@@ -137,19 +137,26 @@
 - *语法*：
 - \>空格\[\!标注类型\] name（可选择，修改名字）
 - \>标注文字
-- *分为可折叠/不可折叠*
+- *分为可折叠(有“-”)/不可折叠(无“-”)*:
 - \>空格\[\!标注类型\]\- name（可选择，修改名字）
+- *例子*:
+> [!note]- FOLD
+> 
+> This is an example... 
+> This is an example...
+> This is an example...
 
-- Obsidian 新语法
-- ```
-  > []
-  ```
+> [!tip] UNFOLD
+> This is an example...
+> This is an example...
+> This is an example...
+
+- *可嵌套*：
+> [!info] INFO
+>> [!check] CHECK
+>> Check the information
 
 
-```javascript
-let hideMap = [];
-and 
-```
 
 ## 4. LaTex 数学公式
 
