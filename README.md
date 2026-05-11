@@ -17,6 +17,8 @@
 - Command/Ctrl + P：打开命令面板
 - Command/Ctrl + S: 保存当前文件
 - Command/Ctrl + T: 新标签页
+- Command/Ctrl + W: 关闭当前标签页
+- Command/Ctrl + Z: 文字宏
 - Command/Ctrl + ,: 打开设置面板 
 - Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
 - Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
@@ -33,7 +35,7 @@
 - 
 - Command/Ctrl + /：注释或者取消注释
 - 
-- Command/Ctrl + Z: 文字宏
+-
 - "---,---": 包裹的是文件的属性
 - / + 其他: 可以调出命令
 - Option/Alt + 鼠标单击：多光标编辑
