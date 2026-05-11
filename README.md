@@ -22,19 +22,14 @@
 - Command/Ctrl + W: 关闭当前标签页
 - Command/Ctrl + Z: 文字宏，补全
 
+## Others:
 
 - Command/Ctrl + Left：隐藏/展开左侧栏
 - Command/Ctrl + Right：隐藏/展开右侧栏
 - Command/Ctrl + ,: 打开设置面板 
 - Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
 - Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
-- 
 - Command/Ctrl + Shift + D：新建日记
-- 
-- 
--
-- 
--
 - Command/Ctrl + 鼠标滚轮：字体大小（要提前设置）
 - Command/Ctrl + "+"/"-"：同理
 - 
