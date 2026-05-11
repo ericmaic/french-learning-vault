@@ -319,7 +319,7 @@ about: >
 
 - **Notebook Navigator** :
 - **Style Settings** : 
-- **Media Extended** :
+- **Media Extended** : 增强多媒体管理，视频时间戳以及回顾
 - **Dragger** :
 - **Heat Map** :
 - **Mind Map** :
@@ -346,8 +346,8 @@ about: >
 	- 用法：\%\% waypoint \%\%
 - **Text Snippets** ：文件快捷输入，宏设定
 	- 用法：快捷键 - Command + Z
-- Advanced URI：
-
+- **Advanced URI** ：使用时间戳给笔记链接增加唯一性和稳定性；浏览器也可以访问到
+ 
 
 ```
 
