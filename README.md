@@ -310,19 +310,22 @@ about: >
 - **Git** ：云端同步方案
 	- 用法：跟 Github 仓库建立连接，多设备共享
 - **Calendar** ：日历插件
+
 - **Tasks** :
-- Notebook Navigator
-- Style Settings
-- Media Extended
-- dragger？
-- Dataview：抽取符合条件的笔记，筛选
-	- 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
-- Templater：
-- Heat Map？
-- Mind Map
-- Admonition: 文字块风格
+- **Dataview** ：抽取符合条件的笔记，筛选
+- - 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
+- **Templater** ：
+- **QuickAdd** ：
+
+- **Notebook Navigator** :
+- **Style Settings** : 
+- **Media Extended** :
+- **Dragger** :
+- **Heat Map** :
+- **Mind Map** :
+- **Admonition** : 文字块风格
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
-- List Callout：Callout 升级版
+- **List Callout** ：Callout 升级版
 	- 用法：\- 空格 特俗符号
 	- ! Callout 1
 	- @ Callout 2
@@ -331,18 +334,17 @@ about: >
 	- & Callout 5
 	- ~ Callout 6
 	- ? Callout 7
-- Banner: 题图
+- **Banner** : 题图
 	- 用法：Command + P -> Banner add local image
-- QuickAdd：
-- Advanced Table：markdown增强表格
+- **Advanced Table** ：markdown增强表格
 	- 用法：只需要\|title\|title\|title\|就可以实现表格
-- Settings Search：setting里面的搜索框
-- Easy Typing：对文字优化处理
-- PDF++：对 PDF 进行标注的插件
-- Export Image：把笔记导出为图片
-- Waypoint：在每个目录下建立一个索引文档，实时更新
+- **Settings Search** ：setting里面的搜索框
+- **Easy Typing** ：对文字优化处理
+- **PDF++** ：对 PDF 进行标注的插件
+- **Export Image** ：把笔记导出为图片
+- **Waypoint** ：在每个目录下建立一个索引文档，实时更新
 	- 用法：\%\% waypoint \%\%
-- Text Snippets：文件快捷输入，宏设定
+- **Text Snippets** ：文件快捷输入，宏设定
 	- 用法：快捷键 - Command + Z
 
 
