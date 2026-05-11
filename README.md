@@ -162,7 +162,13 @@
 
 > [!info] Info, Todo
 
-> [!tip] Tip, Hint
+> [!tip] Tip, Hint, Important
+
+> [!success] Success, Check, Done
+
+> 
+
+
 
 
 ## 4. LaTex 数学公式
