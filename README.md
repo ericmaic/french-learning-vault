@@ -13,11 +13,13 @@
 - Command/Ctrl + L：从原始的文字，依次切换到todo，todo done
 - Command/Ctrl + M: 打开思维导图
 - Command/Ctrl + N：新建一个卡片，或者笔记
-- Command/Ctrl + O：搜索文件的名字 - 
-- Command/Ctrl + ，：打开设置面板 
+- Command/Ctrl + O：搜索文件的名字
+- Command/Ctrl + P：打开命令面板
+- Command/Ctrl + S:
+- Command/Ctrl + ,: 打开设置面板 
 - Command/Ctrl + Enter：在连接处直接打开链接到网页或者到tab页
 - Command/Ctrl + 点击编辑书页图标：切换编辑和只读模式在新tab中建立
-- Command/Ctrl + P：打开命令面板
+- 
 - Command/Ctrl + Shift + D：新建日记
 - 
 - 
