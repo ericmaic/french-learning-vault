@@ -365,6 +365,7 @@ This is an example for Admonition
 - **Export Image** ：把笔记导出为图片
 - **Waypoint** ：在每个目录下建立一个索引文档，实时更新
 	- 用法：\%\% waypoint \%\%
+- **File Explore Note Count** : 笔记计数
 - ~~**Text Snippets** ：文件快捷输入，宏设定~~
 	- ~~用法：快捷键 - Command + Z~~
 - ~~**Note Refactor** ：笔记重构，根据title的级别重构为双链笔记~~
