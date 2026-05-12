@@ -339,8 +339,11 @@ about: >
 	- & Callout 5
 	- ~ Callout 6
 	- ? Callout 7
+- **Admonition** : 文字块风格
+- 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
 - **Notebook Navigator** : 文件导航增强
-- 
+- **Settings Search** ：setting里面的搜索框
+- **Easy Typing** ：对文字优化增强处理
 
 ## 4. 功能插件
 
@@ -349,14 +352,13 @@ about: >
 - **Dragger** :
 - **Heat Map** :
 - **Mind Map** :
-- **Admonition** : 文字块风格
-	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
+- 
 
 - **Banner** : 题图
 	- 用法：Command + P -> Banner add local image
 - 
-- **Settings Search** ：setting里面的搜索框
-- **Easy Typing** ：对文字优化处理
+
+- 
 - **PDF++** ：对 PDF 进行标注的插件
 - **Export Image** ：把笔记导出为图片
 - **Waypoint** ：在每个目录下建立一个索引文档，实时更新
