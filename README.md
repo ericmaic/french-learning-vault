@@ -315,6 +315,7 @@ about: >
 	- 用法：跟 Github 仓库建立连接，多设备共享
 - **Calendar** ：日历插件
 - **Style Settings** : 设置主题以及其他插件的样式
+- **Dragger** : 
 
 ## 2. 核心插件
 
@@ -347,14 +348,9 @@ about: >
 
 ## 4. 功能插件
 
-- **Notebook Navigator** :
-- 
-- **Dragger** :
-- **Heat Map** :
-- **Mind Map** :
-- 
-
-- **Banner** : 题图
+- **Heat Map** : 热力图
+- **Mind Map** : 思维导图，快捷键 Command + M
+- **Banner**（仿 Notion） : 题图
 	- 用法：Command + P -> Banner add local image
 - 
 
