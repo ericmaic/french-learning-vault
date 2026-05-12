@@ -373,7 +373,7 @@ This is an example for Admonition
 - ~~**Note Refactor** ：笔记重构，根据title的级别重构为双链笔记~~
 
 ## 5. 备选插件
-- **Image Auto Upload** 
+- **Image Auto Upload**  
 - **Outliner**
 - **Another Quick Switcher**
 ---
