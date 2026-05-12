@@ -316,7 +316,7 @@ about: >
 - **Git** ：云端同步方案
 	- 用法：跟 Github 仓库建立连接，多设备共享
 	- [解决：文件冲突和丢失](https://www.bilibili.com/video/BV1JUtuzUECZ/?spm_id_from=333.1387.upload.video_card.click)
-	- []()
+	- [解决：版本控制和分支管理](https://www.bilibili.com/video/BV1vStqzQEeX/?spm_id_from=333.1387.upload.video_card.click)
 - **Calendar** ：日历插件
 - **Style Settings** : 设置主题以及其他插件的样式
 - **Dragger** : 
