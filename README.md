@@ -342,8 +342,9 @@ about: >
 	- ? Callout 7
 - **Admonition** : 文字块风格
 	- 用法：“三个\`开始，+ ad-功能标记 + 三个\`结束”
-	- ```
-	  ```
+```ad-note
+This is an example for Admonition
+```
 - **Notebook Navigator** : 文件导航增强
 - **Settings Search** ：setting里面的搜索框
 - **Easy Typing** ：对文字优化增强处理
