@@ -390,80 +390,60 @@ This is an example for Admonition
 
 # 六. JS 小插件
 
+
 ```dataviewjs
-// --- 1. 使用 Dataview API 构建一个与原始文件完全相同的扁平化 HTML 结构 ---
+// --- 最终版代码 ---
 
-// 创建最外层的容器
-const clock = dv.container.createEl('div', { 
-    cls: 'progress-clock', 
-    attr: { id: 'clock' } 
-});
+const { DateTime } = dv.luxon;
 
-// 定义一个对象来存放需要更新的元素引用
-const elements = {};
+const now = DateTime.now();
+const startOfDay = now.startOf('day');
+const passedMinutesInDay = now.diff(startOfDay, 'minutes').minutes;
+const dayPercent = (passedMinutesInDay / (24 * 60)) * 100;
 
-// 将所有元素直接创建为 clock 的子元素
-const dateButton = clock.createEl('button', { cls: 'progress-clock__time-date', attr: { 'data-group': 'd', type: 'button' } });
-elements.week = dateButton.createEl('small', { attr: { 'data-unit': 'w' } });
-dateButton.createEl('br');
-elements.month = dateButton.createEl('span', { attr: { 'data-unit': 'mo' } });
-elements.day = dateButton.createEl('span', { attr: { 'data-unit': 'd' } });
+const startOfWeek = now.startOf('week');
+const passedHoursInWeek = now.diff(startOfWeek, 'hours').hours;
+const weekPercent = (passedHoursInWeek / (7 * 24)) * 100;
 
-elements.hour = clock.createEl('button', { cls: 'progress-clock__time-digit', attr: { 'data-unit': 'h', 'data-group': 'h' } });
-clock.createEl('span', { cls: 'progress-clock__time-colon', text: ':' });
-elements.minute = clock.createEl('button', { cls: 'progress-clock__time-digit', attr: { 'data-unit': 'm', 'data-group': 'm' } });
-clock.createEl('span', { cls: 'progress-clock__time-colon', text: ':' });
-elements.second = clock.createEl('button', { cls: 'progress-clock__time-digit', attr: { 'data-unit': 's', 'data-group': 's' } });
-elements.ampm = clock.createEl('span', { cls: 'progress-clock__time-ampm', attr: { 'data-unit': 'ap' } });
+const monthPercent = (now.day / now.daysInMonth) * 100;
 
-// SVG 仍然作为 clock 的直接子元素
-const svgHTML = `
-<svg class="progress-clock__rings" width="256" height="256" viewBox="0 0 256 256">
-    <g data-units="d"><circle class="progress-clock__ring" cx="128" cy="128" r="74" fill="none" opacity="0.1" stroke="#e13e78" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="mo" cx="128" cy="128" r="74" fill="none" stroke="#e13e78" stroke-width="12" stroke-dasharray="465 465" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
-    <g data-units="h"><circle class="progress-clock__ring" cx="128" cy="128" r="90" fill="none" opacity="0.1" stroke="#e79742" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="d" cx="128" cy="128" r="90" fill="none" stroke="#e79742" stroke-width="12" stroke-dasharray="565.5 565.5" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
-    <g data-units="m"><circle class="progress-clock__ring" cx="128" cy="128" r="106" fill="none" opacity="0.1" stroke="#4483ec" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="h" cx="128" cy="128" r="106" fill="none" stroke="#4483ec" stroke-width="12" stroke-dasharray="666 666" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
-    <g data-units="s"><circle class="progress-clock__ring" cx="128" cy="128" r="122" fill="none" opacity="0.1" stroke="#8f30eb" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="m" cx="128" cy="128" r="122" fill="none" stroke="#8f30eb" stroke-width="12" stroke-dasharray="766.5 766.5" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
-</svg>
-`;
-clock.innerHTML += svgHTML;
+const passedDaysInYear = now.ordinal;
+const totalDaysInYear = now.isInLeapYear ? 366 : 365;
+const yearPercent = (passedDaysInYear / totalDaysInYear) * 100;
 
-const ringFills = {
-    day: clock.querySelector('[data-ring="mo"]'),
-    hour: clock.querySelector('[data-ring="d"]'),
-    minute: clock.querySelector('[data-ring="h"]'),
-    second: clock.querySelector('[data-ring="m"]'),
-};
+const progressBars = [
+    { label: "今日进度", value: passedMinutesInDay, max: 24 * 60, percent: dayPercent },
+    { label: "本周进度", value: passedHoursInWeek, max: 7 * 24, percent: weekPercent },
+    { label: "本月进度", value: now.day, max: now.daysInMonth, percent: monthPercent },
+    { label: "本年进度", value: passedDaysInYear, max: totalDaysInYear, percent: yearPercent }
+];
 
-// --- 更新逻辑部分保持不变 ---
-function updateClock() {
-    moment.locale('zh-cn');
-    const now = moment();
-    const formatDate = now.format("dddd-MMMM-D-H-mm-ss-a").split("-");
-    const [week, month, day, hour, minute, second, ampm] = formatDate;
-    elements.week.textContent = week;
-    elements.month.textContent = month;
-    elements.day.textContent = day;
-    elements.hour.textContent = hour;
-    elements.minute.textContent = minute;
-    elements.second.textContent = second;
-    elements.ampm.textContent = ampm;
-    const daysInMonth = now.daysInMonth(); 
-    const secProgress = second / 60;
-    const minProgress = (parseInt(minute) + secProgress) / 60;
-    const hourProgress = (parseInt(hour) + minProgress) / 24;
-    const dayProgress = (parseInt(day) - 1 + hourProgress) / daysInMonth;
-    const circumferences = { day: 465, hour: 565.5, minute: 666, second: 766.5 };
-    if (ringFills.second) ringFills.second.setAttribute('stroke-dashoffset', (1 - secProgress) * circumferences.second);
-    if (ringFills.minute) ringFills.minute.setAttribute('stroke-dashoffset', (1 - minProgress) * circumferences.minute);
-    if (ringFills.hour) ringFills.hour.setAttribute('stroke-dashoffset', (1 - hourProgress) * circumferences.hour);
-    if (ringFills.day) ringFills.day.setAttribute('stroke-dashoffset', (1 - dayProgress) * circumferences.day);
+function createProgressBar(data) {
+    const container = dv.el("div", "");
+    container.style.display = "flex";
+    container.style.alignItems = "center";
+    container.style.marginBottom = "8px";
+
+    const label = dv.el("span", `${data.label}：`);
+    label.style.minWidth = "75px";
+    label.style.flexShrink = "0";
+
+    const progress = dv.el("progress", "");
+    progress.setAttribute("value", data.value);
+    progress.setAttribute("max", data.max);
+    progress.style.flexGrow = "1";
+    progress.style.width = "100%";
+    progress.style.height = "14px";
+
+    const percentage = dv.el("span", ` ${data.percent.toFixed(2)}%`);
+    percentage.style.marginLeft = "10px";
+
+    container.append(label, progress, percentage);
+    dv.paragraph(container);
 }
-updateClock();
-const intervalId = window.setInterval(updateClock, 1000);
-dv.container.onunload = () => { window.clearInterval(intervalId); }
+
+progressBars.forEach(bar => createProgressBar(bar));
 ```
-
-
 
 
 
