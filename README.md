@@ -345,6 +345,12 @@ about: >
 ```ad-note
 This is an example for Admonition
 ```
+```ad-success
+This is an example for Admonition
+```
+```ad-example
+This is an example for Admonition
+```
 - **Notebook Navigator** : 文件导航增强
 - **Settings Search** ：setting里面的搜索框
 - **Easy Typing** ：对文字优化增强处理
