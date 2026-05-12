@@ -505,7 +505,7 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 ### Todo List (List Style)
  
-- [ ]     <-> To do \- \[ \]
+- [ ] <-> To do \- \[ \]
 - [/]     <-> In Progress \- \[/\]
 - [x]     <-> Done \- \[x\]
 - [-]     <-> Cancelled \- \[-\]
