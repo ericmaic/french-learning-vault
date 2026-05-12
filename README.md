@@ -1,4 +1,6 @@
-# french-learning-vault
+# <span style="color:red;">使用指南 Instruction</span>
+## Vault：french-learning-vault
+### Version：1.0.0
 ---
 
 # 一. 快捷键
@@ -312,7 +314,7 @@ about: >
 - **Git** ：云端同步方案
 	- 用法：跟 Github 仓库建立连接，多设备共享
 - **Calendar** ：日历插件
-- **Style Settings** : 设置样式
+- **Style Settings** : 设置主题以及其他插件的样式
 
 ## 2. 核心插件
 
@@ -322,7 +324,7 @@ about: >
 - **Templater** ：
 - **QuickAdd** ：
 
-## 3.增强插件
+## 3. 增强插件
 
 - **Media Extended** : 增强多媒体管理，视频时间戳以及回顾
 - **Advanced Table** ：markdown增强表格
@@ -337,9 +339,10 @@ about: >
 	- & Callout 5
 	- ~ Callout 6
 	- ? Callout 7
+- **Notebook Navigator** : 文件导航增强
+- 
 
-
-## 4.功能插件
+## 4. 功能插件
 
 - **Notebook Navigator** :
 - 
