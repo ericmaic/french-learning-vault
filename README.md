@@ -331,6 +331,10 @@ about: >
 - **List Callout** ：Callout 升级版
 - 用法：\- 空格 特俗符号
 - ! Callout 1
+- @ Callout 2
+- $ Callout 3
+- % Callout 4
+
 
 
 ## 4.功能插件
