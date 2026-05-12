@@ -456,7 +456,10 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 ## 1. Daily
 
-- 打开会在日记模块里面，作为每天要做的项目去统计
+- 说明：打开会在日记模块里面，作为每天要做的项目去统计
+- 包括：
+	- 打卡对应热力图
+	- todo
 
 
 # 八. Bases 数据库
