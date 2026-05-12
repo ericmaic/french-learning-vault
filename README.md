@@ -385,6 +385,88 @@ This is an example for Admonition
 - **rainbow-card-solid** ：彩虹配色左侧文件夹列表，可在 CSS 文件里自定义模式
 - **rainbow-card-outline** ：彩虹配色左侧文件夹列表，可在 CSS 文件里自定义模式
 - **cards-show** : cards stack 类型的 callout
+---
+
+
+# 六. JS 小插件
+
+```
+// --- 1. 使用 Dataview API 构建一个与原始文件完全相同的扁平化 HTML 结构 ---
+
+// 创建最外层的容器
+const clock = dv.container.createEl('div', { 
+    cls: 'progress-clock', 
+    attr: { id: 'clock' } 
+});
+
+// 定义一个对象来存放需要更新的元素引用
+const elements = {};
+
+// 将所有元素直接创建为 clock 的子元素
+const dateButton = clock.createEl('button', { cls: 'progress-clock__time-date', attr: { 'data-group': 'd', type: 'button' } });
+elements.week = dateButton.createEl('small', { attr: { 'data-unit': 'w' } });
+dateButton.createEl('br');
+elements.month = dateButton.createEl('span', { attr: { 'data-unit': 'mo' } });
+elements.day = dateButton.createEl('span', { attr: { 'data-unit': 'd' } });
+
+elements.hour = clock.createEl('button', { cls: 'progress-clock__time-digit', attr: { 'data-unit': 'h', 'data-group': 'h' } });
+clock.createEl('span', { cls: 'progress-clock__time-colon', text: ':' });
+elements.minute = clock.createEl('button', { cls: 'progress-clock__time-digit', attr: { 'data-unit': 'm', 'data-group': 'm' } });
+clock.createEl('span', { cls: 'progress-clock__time-colon', text: ':' });
+elements.second = clock.createEl('button', { cls: 'progress-clock__time-digit', attr: { 'data-unit': 's', 'data-group': 's' } });
+elements.ampm = clock.createEl('span', { cls: 'progress-clock__time-ampm', attr: { 'data-unit': 'ap' } });
+
+// SVG 仍然作为 clock 的直接子元素
+const svgHTML = `
+<svg class="progress-clock__rings" width="256" height="256" viewBox="0 0 256 256">
+    <g data-units="d"><circle class="progress-clock__ring" cx="128" cy="128" r="74" fill="none" opacity="0.1" stroke="#e13e78" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="mo" cx="128" cy="128" r="74" fill="none" stroke="#e13e78" stroke-width="12" stroke-dasharray="465 465" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
+    <g data-units="h"><circle class="progress-clock__ring" cx="128" cy="128" r="90" fill="none" opacity="0.1" stroke="#e79742" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="d" cx="128" cy="128" r="90" fill="none" stroke="#e79742" stroke-width="12" stroke-dasharray="565.5 565.5" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
+    <g data-units="m"><circle class="progress-clock__ring" cx="128" cy="128" r="106" fill="none" opacity="0.1" stroke="#4483ec" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="h" cx="128" cy="128" r="106" fill="none" stroke="#4483ec" stroke-width="12" stroke-dasharray="666 666" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
+    <g data-units="s"><circle class="progress-clock__ring" cx="128" cy="128" r="122" fill="none" opacity="0.1" stroke="#8f30eb" stroke-width="12"></circle><circle class="progress-clock__ring-fill" data-ring="m" cx="128" cy="128" r="122" fill="none" stroke="#8f30eb" stroke-width="12" stroke-dasharray="766.5 766.5" stroke-linecap="round" transform="rotate(-90,128,128)"></circle></g>
+</svg>
+`;
+clock.innerHTML += svgHTML;
+
+const ringFills = {
+    day: clock.querySelector('[data-ring="mo"]'),
+    hour: clock.querySelector('[data-ring="d"]'),
+    minute: clock.querySelector('[data-ring="h"]'),
+    second: clock.querySelector('[data-ring="m"]'),
+};
+
+// --- 更新逻辑部分保持不变 ---
+function updateClock() {
+    moment.locale('zh-cn');
+    const now = moment();
+    const formatDate = now.format("dddd-MMMM-D-H-mm-ss-a").split("-");
+    const [week, month, day, hour, minute, second, ampm] = formatDate;
+    elements.week.textContent = week;
+    elements.month.textContent = month;
+    elements.day.textContent = day;
+    elements.hour.textContent = hour;
+    elements.minute.textContent = minute;
+    elements.second.textContent = second;
+    elements.ampm.textContent = ampm;
+    const daysInMonth = now.daysInMonth(); 
+    const secProgress = second / 60;
+    const minProgress = (parseInt(minute) + secProgress) / 60;
+    const hourProgress = (parseInt(hour) + minProgress) / 24;
+    const dayProgress = (parseInt(day) - 1 + hourProgress) / daysInMonth;
+    const circumferences = { day: 465, hour: 565.5, minute: 666, second: 766.5 };
+    if (ringFills.second) ringFills.second.setAttribute('stroke-dashoffset', (1 - secProgress) * circumferences.second);
+    if (ringFills.minute) ringFills.minute.setAttribute('stroke-dashoffset', (1 - minProgress) * circumferences.minute);
+    if (ringFills.hour) ringFills.hour.setAttribute('stroke-dashoffset', (1 - hourProgress) * circumferences.hour);
+    if (ringFills.day) ringFills.day.setAttribute('stroke-dashoffset', (1 - dayProgress) * circumferences.day);
+}
+updateClock();
+const intervalId = window.setInterval(updateClock, 1000);
+dv.container.onunload = () => { window.clearInterval(intervalId); }
+```
+
+
+
+
+
 
 
 # 日记或Daily
