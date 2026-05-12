@@ -450,7 +450,8 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 # 七. 功能模块
 
-## 1. 打卡
+## 1. Daily
+
 - 打开会在日记模块里面，作为每天要做的项目去统计
 
 
