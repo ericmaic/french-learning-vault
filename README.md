@@ -220,6 +220,7 @@
 
 - **待更新**
 - [Mermaid教程](https://www.bilibili.com/video/BV1CD8jz7EZs?t=0.0)
+- [动态数据查询](https://www.bilibili.com/video/BV1348yzBEcx?t=72.7)
 
 ## 8. Yaml/Property 语法
 
