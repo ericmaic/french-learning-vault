@@ -32,7 +32,7 @@
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-brighter",
   "Appearance-dark@@card-highlight-dark": true,
-  "Components@@CTA-BTN-enable": false,
+  "Components@@CTA-BTN-enable": true,
   "Components@@folder-font-bold": true,
   "Components@@colorful-folder": true,
   "Components@@file-icon-remove": false,
@@ -68,5 +68,8 @@
   "Editor@@focus-indicator-codeblock-line-number": false,
   "Appearance-dark@@workspace-divider-transparent-dark": false,
   "Editor@@text-align-justify": true,
-  "folder-color-schemes@@folder-color-scheme-class": "folder-scheme-nord"
+  "folder-color-schemes@@folder-color-scheme-class": "folder-scheme-azure",
+  "folder-color-border-icon-style@@folder-color-scheme-class": "folder-scheme-nord-aurora",
+  "Editor@@editor-grid-background-pattren": false,
+  "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-default-dark"
 }

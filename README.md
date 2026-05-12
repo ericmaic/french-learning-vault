@@ -382,8 +382,8 @@ This is an example for Admonition
 # 五. CSS Style
 
 - **list-outline** ：优化列表的层级线条
-- **rainbow-card-solid** ：彩虹配色左侧文件夹列表
-- **rainbow-card-outline** ：彩虹配色左侧文件夹列表
+- **rainbow-card-solid** ：彩虹配色左侧文件夹列表，可在 CSS 文件里自定义模式
+- **rainbow-card-outline** ：彩虹配色左侧文件夹列表，可在 CSS 文件里自定义模式
 - **cards-show** : cards stack 类型的 callout
 
 
