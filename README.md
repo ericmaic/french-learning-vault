@@ -368,6 +368,9 @@ This is an example for Admonition
 - ~~**Text Snippets** ：文件快捷输入，宏设定~~
 	- ~~用法：快捷键 - Command + Z~~
 - ~~**Note Refactor** ：笔记重构，根据title的级别重构为双链笔记~~
+
+## 5. 备选插件
+- **Image Auto Upload**
 ---
 
 
