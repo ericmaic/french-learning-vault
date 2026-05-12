@@ -366,7 +366,7 @@ This is an example for Admonition
 - **Waypoint** ：在每个目录下建立一个索引文档，实时更新
 	- 用法：\%\% waypoint \%\%
 - **Text Snippets** ：文件快捷输入，宏设定
-	- 用法：快捷键 - Command + Z
+	- ~~用法：快捷键 - Command + Z~~
 - 
 
 ```
