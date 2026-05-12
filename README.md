@@ -219,6 +219,7 @@
 ## 7. Mermaid 图表语法
 
 - **待更新**
+- [Mermaid教程](https://www.bilibili.com/video/BV1CD8jz7EZs?t=0.0)
 
 ## 8. Yaml/Property 语法
 
