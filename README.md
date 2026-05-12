@@ -379,6 +379,14 @@ This is an example for Admonition
 ---
 
 
+# 五. CSS Style
+
+- **list-outline** ：优化列表的层级线条
+- **rainbow-card-solid** ：彩虹配色左侧文件夹列表
+- **rainbow-card-outline** ：彩虹配色左侧文件夹列表
+- **cards-show** : cards stack 类型的 callout
+
+
 # 日记或Daily
 
 
@@ -408,8 +416,6 @@ This is an example for Admonition
 - 可以Copy Screenshot拷贝思维导图
 
 
-# CSS Style
-- List outline：列表的层级线条
 
 
 # PDF阅读以及标记

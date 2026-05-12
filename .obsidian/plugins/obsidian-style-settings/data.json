@@ -67,5 +67,6 @@
   "Editor@@focus-indicator-list-level": false,
   "Editor@@focus-indicator-codeblock-line-number": false,
   "Appearance-dark@@workspace-divider-transparent-dark": false,
-  "Editor@@text-align-justify": true
+  "Editor@@text-align-justify": true,
+  "folder-color-schemes@@folder-color-scheme-class": "folder-scheme-nord"
 }
