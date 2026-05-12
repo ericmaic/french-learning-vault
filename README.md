@@ -390,7 +390,7 @@ This is an example for Admonition
 
 # 六. JS 小插件
 
-```
+```dataviewjs
 // --- 1. 使用 Dataview API 构建一个与原始文件完全相同的扁平化 HTML 结构 ---
 
 // 创建最外层的容器
