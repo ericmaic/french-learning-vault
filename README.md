@@ -468,11 +468,11 @@ progressBars.forEach(bar => createProgressBar(bar));
 ## 1. Bases 的基础功能和原理
 
 - Bases 数据库是基于 yaml 的可视化数据操作模式，可以通过三种方式创建：
-	- 工具栏图标：默认存储在 Temporary 文件夹
-	- 特定文件夹：右键 menu 里选择在此文件夹创建
-	- 
+	- **工具栏图标** ：默认存储在 Temporary 文件夹
+	- **特定文件夹** ：右键 menu 里选择在此文件夹创建
+	- **Command/Ctrl + P** : 打开输入命令面板，查找数据库创建
 
-## 2. 进阶技巧：函数与字段
+ ## 2. 进阶技巧：函数与字段
 
 ## 3. 在 Markdown 笔记中引入 Bases 数据库
 
