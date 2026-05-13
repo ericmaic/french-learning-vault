@@ -326,7 +326,8 @@ about: >
 - **Tasks** :  
 - **Dataview** ：抽取符合条件的笔记，筛选
 - - 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
-- **Templater** ：
+- **Templater** （重要）：
+- 
 - **QuickAdd** ：
 
 ## 3. 增强插件
