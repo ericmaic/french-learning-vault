@@ -394,7 +394,7 @@ This is an example for Admonition
 
 # 六. JS 小插件
 
-## 时间进度条
+## 1. 时间进度条
 ```dataviewjs
 // --- 最终版代码 ---
 
@@ -448,7 +448,7 @@ function createProgressBar(data) {
 
 progressBars.forEach(bar => createProgressBar(bar));
 ```
-## Fe
+
 ---
 
 
@@ -465,7 +465,15 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 # 八. Bases 数据库
 
+## 1. Bases 的基础功能和原理
 
+## 2. 进阶技巧：函数与字段
+
+## 3. 在 Markdown 笔记中引入 Bases 数据库
+
+## 4. Bases 与 Dataview，Notion 数据库的对比
+
+## 5. 外观美化
 
 
 ---
