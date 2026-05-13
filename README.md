@@ -326,7 +326,7 @@ about: >
 - **Tasks** :  
 - **Dataview** ：抽取符合条件的笔记，筛选
 	- 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
-- **Templater** （重要）：
+- **Templater** *重要*：
 	- 模板是资源型笔记处理一些重复的内容
 	- templater 是实现自动化的帮手，完成替换的辅助程序
 - **QuickAdd** ：
