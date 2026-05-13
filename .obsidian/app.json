@@ -3,5 +3,7 @@
   "readableLineLength": false,
   "showInlineTitle": false,
   "showLineNumber": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-4-TEMPORARY"
 }
