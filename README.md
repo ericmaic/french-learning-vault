@@ -599,3 +599,10 @@ AI + claude or codex，or kimi or chatgpt
 
 obsidian://open?vault=french-learning-vault&file=README
 
+# 笔记方法论
+
+卡片盒笔记法
+
+文献管理盒，卡片笔记盒
+
+灵感笔 
