@@ -493,7 +493,7 @@ progressBars.forEach(bar => createProgressBar(bar));
 ## 4. Bases 与 Dataview，Notion 数据库的对比
 
 - 速度快，可视化操作，图形界面操作，交互性强
-- Dataview 代码能力强灵活性高：包括两种代码块 a.是 data view；b.是 dataviewjs
+- Data view 代码能力强灵活性高：包括两种代码块 a.是 data view；b.是 data view JS
  
 ## 5. 外观美化
 
