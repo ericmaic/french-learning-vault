@@ -380,6 +380,7 @@ This is an example for Admonition
 - **Image Auto Upload**  
 - **Outliner**
 - **Another Quick Switcher**
+- **Charts View** : [词云笔记](https://www.bilibili.com/video/BV1pWbNzVEHJ?t=13.5)
 ---
 
 
