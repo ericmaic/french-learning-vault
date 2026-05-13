@@ -1,10 +1,7 @@
 ---
-tags:
 title:
+tags:
 ---
-
-
-
 
 %% Begin Waypoint %%
 - [[202605122004]]
