@@ -3,13 +3,12 @@ id:
 title:
 aliases:
 tags:
-created:
 description:
 type:
 topic:
-TQ_show_urgency:
 status:
 date created: <% tp.date.now() %>
+date modified:
 ---
 ---
 每日任务叙述
@@ -23,3 +22,5 @@ date created: <% tp.date.now() %>
 
 放弃的任务
 
+<% tp.file.creation_date %>
+<% tp.file.last_modified_date %>
