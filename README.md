@@ -471,6 +471,7 @@ progressBars.forEach(bar => createProgressBar(bar));
 	- **工具栏图标** ：默认存储在 Temporary 文件夹
 	- **特定文件夹** ：右键 menu 里选择在此文件夹创建
 	- **Command/Ctrl + P** : 打开输入命令面板，查找数据库创建
+- 默认显示所有笔记 
 
  ## 2. 进阶技巧：函数与字段
 
