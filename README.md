@@ -1,4 +1,4 @@
-# <span style="color:#ff5d1d;font-size:3rem;">使用指南 Instruction</span>
+# <span style="color:#ffffff;font-size:3rem;">使用指南 Instruction</span>
 ## Vault：french-learning-vault
 ### Version：1.0.0
 ---
