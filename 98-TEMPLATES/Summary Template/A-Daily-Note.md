@@ -1,8 +1,8 @@
 ---
-title:
-aliases:
+title: 每日笔记 <% tp.date.now() %>
 tags:
-description:
+  - 日记
+description: 记录
 type:
 topic:
 status:
