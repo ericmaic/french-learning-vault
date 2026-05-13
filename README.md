@@ -482,12 +482,19 @@ progressBars.forEach(bar => createProgressBar(bar));
 ## 2. 进阶技巧：函数与字段
 
 - 属性下面有个“添加公式”的选项
-- 
- 
+- 可以点击“ ？”来详细查看，并且让 AI 写
+
 ## 3. 在 Markdown 笔记中引入 Bases 数据库
 
+- **格式 1** ：\!\[\[数据库.base\]\]
+- **格式 2** : \!\[\[数据库.base\#指定显示视图\]\]
+- 在白板和看板中也可以插入 base 
+ 
 ## 4. Bases 与 Dataview，Notion 数据库的对比
 
+- 速度快，可视化操作，图形界面操作，交互性强
+- Dataview 代码能力强灵活性高：包括两种代码块 a.是 data view；b.是 dataviewjs
+ 
 ## 5. 外观美化
 
 
