@@ -479,8 +479,11 @@ progressBars.forEach(bar => createProgressBar(bar));
 	- **属性** : 可以添加笔记要展示的相应属性
 	- **新建** : 在筛选过后的文件夹下新建类似的文件 
 
- ## 2. 进阶技巧：函数与字段
+## 2. 进阶技巧：函数与字段
 
+- 属性下面有个“添加公式”的选项
+- 
+ 
 ## 3. 在 Markdown 笔记中引入 Bases 数据库
 
 ## 4. Bases 与 Dataview，Notion 数据库的对比
