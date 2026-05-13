@@ -8,4 +8,5 @@ views:
       - file.name
       - formula.未命名
       - formula.未命名 2
+      - file.basename
     cardSize: 210
