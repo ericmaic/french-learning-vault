@@ -34,7 +34,7 @@
   "Appearance-dark@@card-highlight-dark": true,
   "Components@@CTA-BTN-enable": true,
   "Components@@folder-font-bold": true,
-  "Components@@colorful-folder": true,
+  "Components@@colorful-folder": false,
   "Components@@file-icon-remove": false,
   "Components@@file-names-untrim": false,
   "Components@@tab-autohide": false,

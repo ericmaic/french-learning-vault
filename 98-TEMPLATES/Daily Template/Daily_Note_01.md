@@ -21,6 +21,7 @@ date modified: <% tp.file.last_modified_date %>
 追踪的任务
 
 放弃的任务
-
+ 
 <% tp.file.creation_date %>
 <% tp.file.last_modified_date %>
+<% tp.web.random_picture %>

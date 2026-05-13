@@ -9,6 +9,7 @@
   "enabledCssSnippets": [
     "CardsShow",
     "cards-show",
-    "list-outline"
+    "list-outline",
+    "rainbow-card-outline"
   ]
 }
