@@ -9,6 +9,7 @@ type:
 topic:
 TQ_show_urgency:
 status:
+date created: <% tp.date.now() %>
 ---
 ---
 每日任务叙述
