@@ -519,13 +519,6 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 
 
-
-
-
-
-# 日记或Daily
-
-
 # 文件存储
 - 附件存放在ATTACHMENTS文件夹中
 - 
