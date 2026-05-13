@@ -12,7 +12,9 @@ date modified: <% tp.file.last_modified_date() %>
 # A. 每日安排
 
 > [!note]
->  
+>  wo jin
+>  fei fej 
+>  feefesijf
 
 # B. 每日总结
 
@@ -22,7 +24,8 @@ date modified: <% tp.file.last_modified_date() %>
 
 # C. 今日任务
 
-
+- [x] 今日任务 📅 2026-05-14 ✅ 2026-05-14
+- [/] 
 
 
 
