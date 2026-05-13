@@ -35,9 +35,5 @@
     ""
   ],
   "intellisense_render": 1,
-  "ignore_folders_on_creation": [
-    {
-      "folder": ""
-    }
-  ]
+  "ignore_folders_on_creation": []
 }
