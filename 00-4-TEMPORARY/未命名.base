@@ -1,6 +1,11 @@
+formulas:
+  未命名: This is the unite states of A
+  未命名 2: ""
 views:
   - type: cards
     name: 表格
     order:
       - file.name
+      - formula.未命名
+      - formula.未命名 2
     cardSize: 210
