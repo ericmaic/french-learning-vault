@@ -605,4 +605,4 @@ obsidian://open?vault=french-learning-vault&file=README
 
 文献管理盒，卡片笔记盒
 
-灵感笔 
+灵感笔 flomo，notebook mac，
