@@ -5,5 +5,6 @@
   "showLineNumber": true,
   "propertiesInDocument": "visible",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00-4-TEMPORARY"
+  "newFileFolderPath": "00-4-TEMPORARY",
+  "trashOption": "local"
 }
