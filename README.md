@@ -522,13 +522,16 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 # PDF阅读以及标记
 
-# Mermaid语法
- 
 | column1 | column2 | column3 |     |
 | ------- | ------- | ------- | --- |
 |         |         |         |     |
 |         |         |         |     |
 |         |         |         |     |
+
+|1|1|2|
+|-|-|-|
+
+
 
 # AI 设置
 
