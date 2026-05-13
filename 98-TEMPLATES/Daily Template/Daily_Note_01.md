@@ -7,8 +7,8 @@ description:
 type:
 topic:
 status:
-date created: <% tp.date.now() %>
-date modified:
+date created: <% tp.file.creation_date %>
+date modified: <% tp.file.last_modified_date %>
 ---
 ---
 每日任务叙述
