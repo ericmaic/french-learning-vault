@@ -472,6 +472,7 @@ progressBars.forEach(bar => createProgressBar(bar));
 	- **特定文件夹** ：右键 menu 里选择在此文件夹创建
 	- **Command/Ctrl + P** : 打开输入命令面板，查找数据库创建
 - 默认显示所有笔记 
+- 左上角，切换和新增视图，默认是表格视图 
 
  ## 2. 进阶技巧：函数与字段
 
