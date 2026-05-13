@@ -497,7 +497,8 @@ progressBars.forEach(bar => createProgressBar(bar));
  
 ## 5. 外观美化
 
-- base 的就是 html 的 table，所以针对 table 的 css 都可以修饰 data vie w 
+- base 的就是 html 的 table，所以针对 table 的 css 都可以修饰 data view
+- 需要单独适配 CSS 代码
 
 ---
 
