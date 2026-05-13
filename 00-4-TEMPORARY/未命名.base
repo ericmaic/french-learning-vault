@@ -7,3 +7,5 @@ views:
       - file.fullname
       - file.links
       - file.mtime
+  - type: table
+    name: 视图
