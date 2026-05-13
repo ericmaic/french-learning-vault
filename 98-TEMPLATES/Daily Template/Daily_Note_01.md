@@ -7,8 +7,8 @@ description:
 type:
 topic:
 status:
-date created: <% tp.file.creation_date %>
-date modified: <% tp.file.last_modified_date %>
+date created: <% tp.file.creation_date() %>
+date modified: <% tp.file.last_modified_date() %>
 ---
 ---
 每日任务叙述
@@ -21,7 +21,8 @@ date modified: <% tp.file.last_modified_date %>
 追踪的任务
 
 放弃的任务
- 
-<% tp.file.creation_date %>
-<% tp.file.last_modified_date %>
-<% tp.web.random_picture %>
+
+<% tp.date.now() %>
+<% tp.file.creation_date() %>
+<% tp.file.last_modified_date() %>
+<% tp.web.random_picture() %>
