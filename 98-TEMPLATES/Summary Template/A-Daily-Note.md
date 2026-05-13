@@ -9,18 +9,23 @@ status:
 date created: <% tp.file.creation_date() %>
 date modified: <% tp.file.last_modified_date() %>
 ---
-# 每日安排
+# A. 每日安排
 
 > [!note]
->  安排：<% tp. %>
+>  
+
+# B. 每日总结
+
+> [!summary] 
+> 
+
+
+# C. 今日安排
 
 
 
 
-# 每日总结
-
-
-
+********
 <% tp.date.now() %>
 <% tp.file.creation_date() %>
 <% tp.file.last_modified_date() %>
