@@ -3,7 +3,4 @@ views:
     name: 表格
     order:
       - file.name
-      - file.ext
-      - file.fullname
-      - file.links
-      - file.mtime
+    cardSize: 210
