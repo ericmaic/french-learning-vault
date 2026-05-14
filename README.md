@@ -323,7 +323,7 @@ about: >
 
 ## 2. 核心插件
 
-- **Tasks** :  
+- **Tasks** :  tasks 的增强插件
 - Tracker : 每日笔记，每日习惯
 - **Dataview** ：抽取符合条件的笔记，筛选
 	- 用法：“三个\`开始，+ dataview + 三个\`结束”，代码块
@@ -331,8 +331,8 @@ about: >
 	- 模板是资源型笔记处理一些重复的内容
 	- templater 是实现自动化的帮手，完成替换的辅助程序
 - **QuickAdd** ：
-- kanban ： 
-- Day planer :   
+- **Kanban** ： Kanban 插件任务集成一体化
+- Day planer : 每日任务的更新
 
 ## 3. 增强插件
 
