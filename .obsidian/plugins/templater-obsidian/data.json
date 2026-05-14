@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "00-0-INBOX/B-Fleeting Notes/fleeting-2026",
+      "template": "98-TEMPLATES/Fleeting Template/TP-Fleeting-Note.md"
     }
   ],
   "enable_file_templates": false,
