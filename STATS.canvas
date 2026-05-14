@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"754f968d8a1e215c","x":-440,"y":-440,"width":855,"height":280,"type":"file","file":"00-2-SOURCE/C-Kanban/Studying.md"}
+	],
+	"edges":[]
+}
