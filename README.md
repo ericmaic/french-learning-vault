@@ -611,3 +611,5 @@ obsidian://open?vault=french-learning-vault&file=README
 # 格式 & 命名
 
 - 想打出星期几，YYYY-MM-DD_dddd 
+- 周记 格式：gggg\[W\]ww
+- 
