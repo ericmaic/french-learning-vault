@@ -211,7 +211,6 @@
 > - 第五张
 > - 第六张
 
-
 ## 6. LaTex 数学公式
 
 - **待更新**
@@ -612,6 +611,7 @@ obsidian://open?vault=french-learning-vault&file=README
 打卡，看进度，完成度
 标签索引， 标签碎片化
 标签代替书签，双链代替结构
+{{date}}
 
 # 格式 & 命名
 
