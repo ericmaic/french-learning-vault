@@ -21,11 +21,11 @@ date modified: <% tp.file.last_modified_date() %>
 
 # C. 任务安排
 
-## 1. 每日任务
+## 1. Tasks due today 每日任务
 
 ## 2. 新增任务
 
-
+## 3. 完成任务
 
 
 ********
