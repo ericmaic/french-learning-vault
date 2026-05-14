@@ -607,6 +607,8 @@ obsidian://open?vault=french-learning-vault&file=README
 
 灵感笔 flomo，notebook mac，
 
+日计划，周总结，月总结，年度总结，
+打卡，看进度，完成度
 
 # 格式 & 命名
 
