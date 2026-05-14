@@ -9,7 +9,7 @@ status:
 date created: <% tp.file.creation_date() %>
 date modified: <% tp.file.last_modified_date() %>
 ---
-# A. 每日安排
+# A. 每日记录
 
 > [!note]
 > 
@@ -19,11 +19,9 @@ date modified: <% tp.file.last_modified_date() %>
 > [!summary] 
 > 
 
+# C. 任务安排
 
-# C. 今日任务
-
-- [x] 今日任务 📅 2026-05-14 ✅ 2026-05-14
-- [/] 
+## 1. 
 
 
 
