@@ -2,7 +2,7 @@
   "attachmentFolderPath": "99-ATTACHMENTS/A-Images",
   "readableLineLength": false,
   "showInlineTitle": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "propertiesInDocument": "hidden",
   "newFileLocation": "folder",
   "newFileFolderPath": "00-4-TEMPORARY",
