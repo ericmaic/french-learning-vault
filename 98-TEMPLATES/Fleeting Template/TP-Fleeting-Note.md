@@ -1,5 +1,5 @@
 ---
 title:
-status: fei,fejk,fejief
+status:
 ---
 {{date}}
