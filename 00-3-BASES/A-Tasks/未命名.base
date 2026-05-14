@@ -1,3 +1,6 @@
 views:
-  - type: list
+  - type: table
     name: 表格
+    order:
+      - file.name
+      - TQ_show_task_count
