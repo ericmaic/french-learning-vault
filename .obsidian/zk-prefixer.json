@@ -1,4 +1,5 @@
 {
   "folder": "00-0-INBOX/B-Fleeting Notes",
-  "format": "YYYY-MM-DD dddd HH时MM分"
+  "format": "YYYY-MM-DD dddd HH时mm分",
+  "template": "98-TEMPLATES/Fleeting Template/TP-Fleeting-Note"
 }
