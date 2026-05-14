@@ -64,6 +64,7 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 
 # 日程管理
+<% tp.file.cursor() %>
 
 # 打卡展示
 
