@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Todo List
 
-- [ ] 学习你好法语
-- [ ] 学你你是个逗比
 
 
 ## Processing
@@ -26,6 +24,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"new-card-insertion-method":"prepend"}
 ```
 %%

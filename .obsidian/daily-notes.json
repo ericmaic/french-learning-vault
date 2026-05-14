@@ -1,4 +1,5 @@
 {
   "folder": "00-1-SUMMARY/A-Daily",
-  "template": "98-TEMPLATES/Summary Template/TP-Daily-Note"
+  "template": "98-TEMPLATES/Summary Template/TP-Daily-Note",
+  "format": "MM月DD日YY年"
 }

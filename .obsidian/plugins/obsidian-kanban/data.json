@@ -1,3 +1,8 @@
 {
-  "show-checkboxes": true
+  "show-checkboxes": true,
+  "new-card-insertion-method": "prepend",
+  "hide-card-count": true,
+  "full-list-lane-width": true,
+  "new-note-folder": "00-4-TEMPORARY",
+  "move-tags": false
 }

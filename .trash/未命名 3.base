@@ -1,0 +1,11 @@
+formulas:
+  未命名: ""
+views:
+  - type: cards
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("00-1-SUMMARY/A-Daily")
+    order:
+      - file.name
+      - formula.未命名

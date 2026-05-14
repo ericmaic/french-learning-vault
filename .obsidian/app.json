@@ -6,5 +6,6 @@
   "propertiesInDocument": "hidden",
   "newFileLocation": "folder",
   "newFileFolderPath": "00-4-TEMPORARY",
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }

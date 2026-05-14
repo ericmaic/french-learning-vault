@@ -25,7 +25,8 @@
     "TQ_show_toolbar": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "status": "multitext",
-    "created": "text"
+    "status": "checkbox",
+    "created": "text",
+    "study": "checkbox"
   }
 }

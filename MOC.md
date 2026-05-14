@@ -1,7 +1,6 @@
 ---
-id: b375680d-2e70-4404-889b-7a75dc683a6f
 tags:
-  - 发音
+  - home
 cssclasses:
 TQ_short_mode:
 TQ_show_task_count:
@@ -59,25 +58,27 @@ function createProgressBar(data) {
 
 progressBars.forEach(bar => createProgressBar(bar));
 ```
-非常的牛逼哦给你一个牛逼格瓦斯，让你娃娃哭泣
+---
 
+# A. 总学习时长
 
+**根据 Daily 通过 Tracker 获取为：**
 
-# 日程管理
 <% tp.file.cursor() %>
 
-# 打卡展示
+---
 
 
-# 学习管理
+# B. Tasks and Review
+---
+![[Learning Tasks]]
 
-# 考试管理
-
-# 模块入口
-
-
-![[Studying]]
+---
 
 
-# 统计模块
+# C. 快捷入口
+
+- 通过 [[README]] 使用本仓库的所有工作流程与插件
+- 通过 [[STATS.canvas]] 查看本仓库的数据
+
 
