@@ -1,8 +1,8 @@
 ---
 title:
+tags:
 status:
-  - 第一个
-  - 第二个
-  - 第三个
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+type:
 ---
-{{date}}
