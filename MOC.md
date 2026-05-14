@@ -64,23 +64,3 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 
 
-```dataviewjs
-const filename = dv.current().file.name.trim()
-const dailyRegex = /^\d{4}-\d{2}-\d{2}$/
-
-if (!dailyRegex.test(filename)) {
-    dv.el("p", "*Filename is not in date format (YYYY-MM-DD). Are you viewing this from a template file?*");
-} else {
-    const today = dv.date(filename)
-    const tasks = dv.pages().file.tasks
-        .filter(x => !x.completed && (x.scheduled || x.due) && dv.date(x.scheduled || x.due) <= today)
-        .sort(x => dv.date(x.scheduled || x.due));
-
-    if (tasks.length === 0) {
-        dv.el("p", "All done. Yeah \\\\(^o^)/");
-    } else {
-        dv.taskList(tasks);
-    }
-}
-```
-
