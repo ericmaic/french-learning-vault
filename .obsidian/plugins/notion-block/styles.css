@@ -1,0 +1,113 @@
+.block-handle-wrap {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    height: 24px; /* Fixed height for better centering calculation */
+    z-index: 10;
+    pointer-events: all;
+    background-color: transparent;
+    transition: transform 0.08s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease;
+    opacity: 0;
+}
+
+.block-handle-wrap:not(.is-hidden) {
+    opacity: 1;
+}
+
+.block-handle-button {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: #aea9a3;
+    cursor: pointer;
+    transition: background-color 0.1s ease, color 0.1s ease, transform 0.1s ease;
+}
+
+.block-handle-button:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-normal);
+    transform: scale(1.1);
+}
+
+.block-handle-button svg {
+    width: 14px;
+    height: 14px;
+}
+
+/* Hide handles on mobile */
+@media (max-width: 768px) {
+    .block-handle-wrap {
+        display: none;
+    }
+}
+
+/* Drag & Drop Feedback */
+.block-drag-ghost {
+    position: fixed;
+    pointer-events: none;
+    background: var(--background-primary);
+    border: 1px solid var(--divider-color);
+    padding: 4px 8px;
+    border-radius: 4px;
+    box-shadow: var(--shadow-s);
+    opacity: 0.7;
+    z-index: 9999;
+    font-size: var(--font-adaptive-small);
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 300px;
+}
+
+.block-drag-indicator {
+    position: fixed;
+    height: 2px;
+    background-color: var(--interactive-accent);
+    pointer-events: none;
+    z-index: 9998;
+    display: none;
+    transition: top 0.1s ease;
+}
+
+body.is-dragging-block,
+body.is-dragging-block * {
+    cursor: grabbing;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* 原生菜单样式微调 - 极致精致 */
+.menu-item {
+    display: flex;
+    align-items: center;
+    padding: 4px 10px;
+    min-height: 26px;
+}
+
+.menu .menu-item .menu-item-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+    opacity: 0.85;
+    flex-shrink: 0;
+}
+
+.menu .menu-item .menu-item-icon svg {
+    width: 14px;
+    height: 14px;
+    display: block;
+    stroke: currentColor;
+    fill: none;
+}
+
+.menu-item-title {
+    font-size: 13px;
+}
