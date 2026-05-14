@@ -318,7 +318,8 @@ about: >
 	- [解决：版本控制和分支管理](https://www.bilibili.com/video/BV1vStqzQEeX/?spm_id_from=333.1387.upload.video_card.click)
 - **Calendar** ：日历插件
 - **Style Settings** : 设置主题以及其他插件的样式
-- **Dragger** : 
+- ~~**Dragger** : [Notion 一样丝滑拖拽文本块——Dragger](https://www.bilibili.com/video/BV17rFxznEP4/?spm_id_from=333.337.search-card.all.click&vd_source=0c9dfe986e4a33075d217923fef01e52)~~
+- **Notion Block** : [Notion风格的块操作obsidian](https://www.bilibili.com/video/BV1pjRXB9E8f/?spm_id_from=333.337.search-card.all.click&vd_source=0c9dfe986e4a33075d217923fef01e52)
 
 ## 2. 核心插件
 
@@ -330,7 +331,8 @@ about: >
 	- templater 是实现自动化的帮手，完成替换的辅助程序
 - **QuickAdd** ：
 - kanban ： 
-- 
+- Day planer :   
+
 ## 3. 增强插件
 
 - **Media Extended** : 增强多媒体管理，视频时间戳以及回顾

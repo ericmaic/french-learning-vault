@@ -23,5 +23,6 @@
   "better-export-pdf",
   "heatmap-calendar",
   "obsidian-kanban",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "notion-block"
 ]
