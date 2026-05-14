@@ -609,7 +609,7 @@ obsidian://open?vault=french-learning-vault&file=README
 
 日计划，周总结，月总结，年度总结，
 打卡，看进度，完成度
-标签索引， 
+标签索引， 标签碎片化
 
 # 格式 & 命名
 
