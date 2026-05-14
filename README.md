@@ -606,3 +606,8 @@ obsidian://open?vault=french-learning-vault&file=README
 文献管理盒，卡片笔记盒
 
 灵感笔 flomo，notebook mac，
+
+
+# 格式 & 命名
+
+- 想打出星期几，YYYY-MM-DD_dddd
