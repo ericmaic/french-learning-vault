@@ -62,23 +62,65 @@ progressBars.forEach(bar => createProgressBar(bar));
 
 # A. 总学习时长
 
-**根据 Daily 通过 Tracker 获取为：**
+```dataviewjs
+const folder = "00-1-SUMMARY/A-Daily"; // 改成你的 Daily 文件夹路径
 
-<% tp.file.cursor() %>
+const fields = [
+  "Pronunciation",
+  "Vocabulary",
+  "Grammar",
+  "Course",
+  "Reading",
+  "Listening",
+  "Speaking",
+  "Writing"
+];
+
+let totals = {};
+for (let field of fields) {
+  totals[field] = 0;
+}
+
+for (let page of dv.pages(`"${folder}"`)) {
+  for (let field of fields) {
+    let value = page[field];
+
+    if (value) {
+      let minutes = Number(String(value).replace(/[^\d.]/g, ""));
+      if (!isNaN(minutes)) {
+        totals[field] += minutes;
+      }
+    }
+  }
+}
+
+dv.table(
+  ["Category", "Total Minutes", "Hours"],
+  fields.map(field => [
+    field,
+    totals[field],
+    (totals[field] / 60).toFixed(2)
+  ])
+);
+
+let grandTotal = Object.values(totals).reduce((a, b) => a + b, 0);
+
+dv.paragraph(`**Total Study / Activity Time:** ${grandTotal} minutes = ${(grandTotal / 60).toFixed(2)} hours`);
+```
 
 ---
 
+# B. Tasks Dashboard
 
-# B. Tasks and Review
+> [!Todo]
+> ```dataview
+> TASK
+> FROM "00-1-SUMMARY/A-Daily"
+> WHERE !completed
+> SORT file.name DESC
+> ```
+
 ---
-![[Learning Tasks]]
 
----
-
-
-# C. 快捷入口
-
-- 通过 [[README]] 使用本仓库的所有工作流程与插件
-- 通过 [[STATS.canvas]] 查看本仓库的数据
 
 
