@@ -110,6 +110,50 @@ dv.paragraph(`**Total Study / Activity Time:** ${grandTotal} minutes = ${(grandT
 
 ---
 
+```dataviewjs
+const folder = "00-1-SUMMARY/A-Daily"; // 改成你的 Daily 文件夹路径
+
+const fields = [
+  "你好法语 A 1",
+  "你好法语 A 2",
+  "你好法语 B 1",
+  "你好法语 B 2"
+];
+
+let totals = {};
+for (let field of fields) {
+  totals[field] = 0;
+}
+
+for (let page of dv.pages(`"${folder}"`)) {
+  for (let field of fields) {
+    let value = page[field];
+
+    if (value) {
+      let minutes = Number(String(value).replace(/[^\d.]/g, ""));
+      if (!isNaN(minutes)) {
+        totals[field] += minutes;
+      }
+    }
+  }
+}
+
+dv.table(
+  ["Category", "Total Minutes", "Hours"],
+  fields.map(field => [
+    field,
+    totals[field],
+    (totals[field] / 60).toFixed(2)
+  ])
+);
+
+let grandTotal = Object.values(totals).reduce((a, b) => a + b, 0);
+
+dv.paragraph(`**Total Study / Activity Time:** ${grandTotal} minutes = ${(grandTotal / 60).toFixed(2)} hours`);
+```
+
+---
+
 # B. Tasks Dashboard
 
 > [!Todo]

@@ -17,6 +17,10 @@
     {
       "folder": "00-0-INBOX/B-Fleeting Notes/fleeting-2026",
       "template": "98-TEMPLATES/Fleeting Template/TP-Fleeting-Note.md"
+    },
+    {
+      "folder": "08-【BOOKS】/B-Notes",
+      "template": "98-TEMPLATES/Reading Template/TP-Reading-Note.md"
     }
   ],
   "enable_file_templates": false,
