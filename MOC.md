@@ -59,7 +59,21 @@ function createProgressBar(data) {
 progressBars.forEach(bar => createProgressBar(bar));
 ```
 ---
+# 法语学习资源
 
+## 法语发音
+
+- [发音](https://www.bilibili.com/video/BV1Fz4y1a793/?spm_id_from=333.1387.favlist.content.click)
+
+## 你好法语
+
+- [水木法语](https://www.bilibili.com/cheese/play/ep20794?csource=common_hp_favorite_null&spm_id_from=333.1387.0.0)
+- [瓦西胖达法语Youtube](https://www.youtube.com/@%E7%93%A6%E8%A5%BF%E8%83%96%E8%BE%BE%E6%B3%95%E8%AF%AD/videos)
+- [瓦西胖达法语Blibili](https://www.bilibili.com/video/BV1W8411J7Rp?spm_id_from=333.788.videopod.episodes&vd_source=0c9dfe986e4a33075d217923fef01e52&p=11)
+- [Clara_法语了解一下](https://www.bilibili.com/video/BV1V7411E7Zg/?spm_id_from=333.788.recommend_more_video.2&trackid=web_related_0.router-related-2589621-n4rxt.1788161439193.503&vd_source=0c9dfe986e4a33075d217923fef01e52)
+
+
+---
 # A. 总学习时长
 
 ```dataviewjs
