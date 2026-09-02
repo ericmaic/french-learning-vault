@@ -1,0 +1,4 @@
+- [2022年我干嘛了？我自学了法语，用了一年时间](https://www.bilibili.com/video/BV1A84y1s7Mz/?spm_id_from=333.337.search-card.all.click&vd_source=0c9dfe986e4a33075d217923fef01e52)
+- [【法语学习】尚雯婕这个学习法语的教程真的绝了！！涵盖发音|餐厅点餐|购物，法语人的神！！！](https://www.bilibili.com/video/BV11u411p7W2/?spm_id_from=333.337.search-card.all.click&vd_source=0c9dfe986e4a33075d217923fef01e52)
+- [# 一年半，我如何从法语零基础学到了双C1](https://zhuanlan.zhihu.com/p/96874949)
+- 
