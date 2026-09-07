@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - **A-你好法语**
 	- **0-法语发音规则**
-		- [[法语笔记1]]
+		- [[笔记-法语发音规则]]
 	- **a-A1**
 		- **Unité-00-Phonétique语音**
 			- [[Leçon-0-0]]
@@ -16,6 +16,7 @@
 			- [[Leçon-4-Correspondants 寻找笔友]]
 			- [[Savoir-faire 学以致用]]
 		- [[A1 Studying List]]
+		- [[Vocabulaire]]
 	- **b-A2**
 	- **c-B1**
 	- **d-B2**
