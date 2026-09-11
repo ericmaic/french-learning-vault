@@ -1,13 +1,49 @@
 # UNITÉ 1
 ## LEÇON 1
 
-- s'appeler（v.pr） - 名字叫
->[!note]- Appeler
->  第一人称： je m appelle
->  第二人称： tu t appelles
->  第三人称： il/elle s appelle
->  第三人称： vous vous appelez
-
+- s'appeler（v.pr）- 名字叫
+>[!note]- 动词变位
+>  第一人称： je m'appelle | (Ex: Je m'appelle Tina)
+>  第二人称： tu t'appelles | (Ex: Tu t'appelles Luccas)
+>  第三人称： il/elle s'appelle | (Il s'appelle Léo - Elle s'appelle Sophie)
+>  第三人称： vous vous'appelez | (Vous vous appelez)
+- être (v.i.) - 是
+> [!note]- 动词变位
+> 第一人称：je suis - nous sommes
+> 第二人称：tu es.  - vous êtes
+> 第三人称：il/elle est - ils/elles sont
+- 
+> [!example]- 例句
+> Je suis étudiante
+> Tu es étudiant
+> Il est français
+> Elle est chinoise
+> Vous êtes madame Legrand
+- bienvenue（n.f）- 欢迎 
+- bonjour -
+- ce - 
+- club - 
+- et - 
+- étudiant(e) (n.) -
+- femme (n.f.) - 
+- français(e)  - 
+- Français(e) -
+- homme (n.m.) -
+- italien(ne) - 
+- La Baule - 
+- ma - 
+- madame - 
+- mari - 
+- mon - 
+- monsieur - 
+- nationalité - 
+- nom - 
+- prénom - 
+- non - 
+- oui - 
+- qui -
+- voici - 
+- 
 
 
 
