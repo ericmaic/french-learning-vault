@@ -1,0 +1,86 @@
+# UNITÉ 1
+## LEÇON 1
+
+- s'appeler（v.pr）- 名字叫
+>[!note]- 动词变位
+>  第一人称： je m'appelle | (Ex: Je m'appelle Tina)
+>  第二人称： tu t'appelles | (Ex: Tu t'appelles Luccas)
+>  第三人称： il/elle s'appelle | (Il s'appelle Léo - Elle s'appelle Sophie)
+>  第三人称： vous vous'appelez | (Vous vous appelez)
+- être (v.i.) - 是
+> [!note]- 动词变位
+> 第一人称：je suis - nous sommes
+> 第二人称：tu es.  - vous êtes
+> 第三人称：il/elle est - ils/elles sont
+- 
+> [!example]- 例句
+> Je suis étudiante
+> Tu es étudiant
+> Il est français
+> Elle est chinoise
+> Vous êtes madame Legrand
+- bienvenue（n.f）- 欢迎 
+> [!tip]- 补充
+> bien：好的意思
+> venue：过来
+> Ex: Bienvenue à Paris
+- bonjour (n.m.) - 你好，早上好 
+> [!tip]- 补充
+> bon：好，美好
+> jour：天
+> bonbon：糖果
+- ce (pron.dém.) - 这
+- club (n.m.) - 俱乐部，会，社
+- et (conj.) - 和，而，且
+- étudiant(e) (n.) - 大学生
+- femme (n.f.) - 女人，妻子
+- français(e) (adj.) - 法国的
+- Français(e) (n.) - 法国人
+- homme (n.m.) - 人，男人，男子
+- italien(ne) (adj.) - 意大利的
+- Italien(ne) (n) - 意大利人
+- La Baule - 拉波尔
+- ma (adj.poss.) - 我的（后接单数阴性名词）
+- maman (n.f.) - 妈妈（儿语，对母亲的爱称）
+- mari (n.m.) - 丈夫
+- mon (adj.poss.) - 我的（后接单数阳性名词）
+- madame (pl. mesdames) (n.f.) - 夫人
+- monsieur (pl. messieurs) (n.m.) - 先生
+> [!tip]- 补充
+> mesdames et messieurs
+- nationalité (n.f.) - 国籍
+- nom (n.m.) - 姓氏
+- prénom (n.m.) - 名字
+- non (adv.) - 不
+- oui (adv.) - 对，是的
+- qui (pron.interr.) - 谁
+- voici (prép) - 这是，这儿是，这就是（口语化） = C'est
+- je (pron.pers.) - 我（做主语）
+- il/elle (pron.pers.) - 他/她/它（做主语）
+> [!tip]- 补充
+> Il est mon mari 
+> C'est mon mari
+> C'est bon
+> C'est Sophie
+> C'est qui
+> C'est monsieur Legrand	
+- tu (pron.pers.) - 你（做主语）
+- vous (pron.pers.) - 您，你们（做主语）
+
+# UNITÉ 2
+
+## LEÇON 5
+
+- affiche (n.f.) - l'affiche - 
+- assiette (n.f.) - l'assiette - 
+- au-dessous
+- au-dessus
+- avec
+- blouson (n.m.) - le blouson
+- chaise (n.f.) - la chaise
+- chambre (n.f.) - la chambre
+- chapeau (n.m.) - le chapeau
+- chat/chate (n.) - le chat - la chatte
+- chien
+- contre ()
+- liternature  

@@ -16,7 +16,7 @@
 			- [[Leçon-4-Correspondants 寻找笔友]]
 			- [[Savoir-faire 学以致用]]
 		- [[A1 Studying List]]
-		- [[Vocabulaire]]
+		- [[A1-Vocabulaire]]
 	- **b-A2**
 	- **c-B1**
 	- **d-B2**
