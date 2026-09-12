@@ -49,8 +49,15 @@ onze douze treize quatorze quinze seize dix-sept dix-huit dix-neuf vingt
 - 28 - vingt-huit - /vɛ̃.tɥit/
 - 29 - vingt-neuf - /vɛ̃t.nœf/
 
-# 数字 31-39
+# 数字 30、40、50
 
+- 30 - trente - /trɑ̃:t/
+- 40 - quarante - /karɑ̃:t/
+- 50 - cinquante - /s ɛ̃kɑ̃:t/
+
+# 数字 30-39
+
+- 
 
 
 
