@@ -66,6 +66,84 @@
 > C'est monsieur Legrand	
 - tu (pron.pers.) - 你（做主语）
 - vous (pron.pers.) - 您，你们（做主语）
+- océan - 海洋
+
+## LEÇON 1
+
+- habiter - 居住（在）
+> [!note]- 动词变位
+> 第一人称：j'habite - nous habitons
+> 第二人称：tu habites - vous habitez
+> 第三人称：il/elle habite - ils/elles habitent
+- Chine - 
+- Chinois(e) - 
+- chinois(e) -
+- France - 
+- Français(e) -
+- français(e) - 
+- Belgique - 
+- Belge - 
+- belge - 
+- Italie - 
+- Italien(ne) - 
+- italien(ne) -
+- Espagne - 
+- Espagnol(e) - 
+- espagnol(e) - 
+- Japon - 
+- Japonais(e) - 
+- japonais(e) -
+- Suisse - 
+- Suisse - 
+- suisse - 
+- États-Unis - 
+- Américain(e) -
+- américain(e) -
+- Allemagne - 
+- Allemand(e) - 
+- allemand(e) - 
+- Pologne - 
+- Polonais(e) - 
+- polonais(e) -
+- Autriche - 
+- Autrichien(ne) - 
+- autrichien(ne) - 
+- Mexique - 
+- Mexicain(e) - 
+- mexicain(e) - 
+- Portugal - 
+- Portugais(e) -
+- portugais(e) - 
+- à - 
+- ah - 
+- assistant(e) -
+- badge - 
+- café -
+- carte - 
+- carte de visite - 
+- cours - 
+- dans - 
+- dentiste - 
+- directeur(trice) -
+- en -
+- français - 
+- Genève - 
+- ou - 
+- photographe -
+- professeur -
+- rendez-vous -
+- sur rendez-vous -
+- secrétaire -
+- s'il vous plaît -
+- sympa - 
+- sympathique - 
+- téléphone - 
+- thé - 
+
+
+
+
+
 
 # UNITÉ 2
 
