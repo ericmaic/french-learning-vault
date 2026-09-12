@@ -18,7 +18,7 @@
 - Tu t'appelles Giacomo! Tu es italien?
 - Oui, oui. Je suis italien.
 
-# 知识点
+# 补充知识
 
 - vous vous appelez comment...? 您叫啥
 - vous 是你们，您的意思；tu 是你的意思
@@ -26,4 +26,21 @@
 	- 但是亲人、朋友、同事、同学之间一般直接称呼名字，并且多使用 tu
 	- Ex: Bonjour, monsieur. Vous êtes italien?
 	- Ex: Bonjour, Alice. Tu es française?
-- 法语的
+- et elle, c'est Nicole, elle est française
+	- et elle 中，et 用来引出要介绍的对象，
+	- française 是表示国籍的形容词，首字母大写的时候表示法国人（女），是专有名词
+	- Ex：C'est une Française
+
+# 语法知识
+
+## 法语的八大主语人称代词
+
+- je（我）
+- tu（你）
+- il（他、它）
+- elle（她、它）
+
+- nous（我们）
+- vous（您、你们）
+- ils（他们、它们）
+- elles（她们、它们）
