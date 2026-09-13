@@ -81,67 +81,70 @@
 - ==France (n.f.)== - la France - 法国 - en France - J'habite en France;  
 - Français(e) (n.) - 法国人 - un Français; une Française
 - français(e) (adj.) - 法国的 
+- ==Canada (n.m.)== - le Canada - 加拿大 - au Canada - J'habit au Canada; Je vais au Canada 
+- Canadien(ne) (n.) - 加拿大人 - un Canadien; une Canadienne 
+- canadien(ne) (adj.) - 加拿大的 
 - ==Belgique (n.f.)== - la Belgique - 比利时 - en Belgique - J'habite en Belgique; Je vais en Belgique 
 - Belge (n.) - 比利时人 - un Belge; une Belge
 - belge (adj.) - 比利时的
-- Italie (n.f.) - l'Italie - 意大利 - en Italie  
-- Italien(ne) - 
-- italien(ne) -
-- Espagne - 
-- Espagnol(e) - 
-- espagnol(e) - 
-- Japon - 
-- Japonais(e) - 
-- japonais(e) -
-- Suisse - 
-- Suisse - 
-- suisse - 
-- États-Unis - 
-- Américain(e) -
-- américain(e) -
-- Allemagne - 
-- Allemand(e) - 
-- allemand(e) - 
-- Pologne - 
-- Polonais(e) - 
-- polonais(e) -
-- Autriche - 
-- Autrichien(ne) - 
-- autrichien(ne) - 
-- Mexique - 
-- Mexicain(e) - 
-- mexicain(e) - 
-- Portugal - 
-- Portugais(e) -
-- portugais(e) - 
-- Iran - 
-- Iranien(ne) - 
-- iranien(ne) -
-- à - 
-- ah - 
-- assistant(e) -
-- badge - 
-- café -
-- carte - 
+- ==Italie (n.f.)== - l'Italie - 意大利 - en Italie  
+- Italien(ne) (n.) - 意大利人 - un Italien; une Italienne 
+- italien(ne) (adj.) - 意大利的
+- ==Espagne (n.f.)== - l'Espagne - 西班牙 - en Espagne - J'habite en Espagne; Je vais en Espagne 
+- Espagnol(e) (n.) - 西班牙人 - un Espagnol; une Espagnole 
+- espagnol(e) (adj.) - 西班牙的
+- ==Japon (n.m.)== - le Japon - 日本 - au Japon - J'habite au Japon; Je vais au Japon 
+- Japonais(e) (n.) - 日本人 - un Japonais; une Japonaise 
+- japonais(e) (adj.) - 日本的
+- ==Suisse (n.f.)== - la Suisse - 瑞士 - en Suisse - J'habite en Suisse; Je vais en Suisse 
+- Suisse (n.) - 瑞士人 - un Suisse; une Suissesse 
+- suisse (adj.) - 瑞士的 
+- ==États-Unis (n.m pl)== 阳性复数国家名 - les États-Unis - aux États-Unis - J'habite aux États_Unis; Je vais aux États-Unis 
+- Américain(e) (n.) - 美国人 - un Américain; une Américaine 
+- américain(e) (adj.) - 美国的
+- ==Allemagne (n.f.)== - l’Allemagne - 德国 - en Allemagne - J'habit en Allemagne; Je vais en Allemagne 
+- Allemand(e) (n.) - 德国人 - un Allemand; une Allemande 
+- allemand(e) (adj.) - 德国的 
+- ==Pologne (n.f.)== - la Pologne - 波兰 - en Pologne - J'habit en Pologne; Je vais en Pologne 
+- Polonais(e) (n.) - 波兰人 - un Polonais; une Polonaise 
+- polonais(e) (adj.) - 波兰的
+- ==Autriche (n.f.)== - l'Autriche - 奥地利 - en Autriche - J'habit en Autriche; Je vais en Autriche 
+- Autrichien(ne) (n.) - 奥地利人 - un Autrichien; une Autrichienne 
+- autrichien(ne) (adj.) - 奥地利的 
+- ==Mexique (n.m.)== - le Mexique - 墨西哥 - au Mexique - J'habit au Mexique; Je vais au Mexique 
+- Mexicain(e) (n.) - 墨西哥人 - un Mexicain; une Mexicaine 
+- mexicain(e) (adj.) - 墨西哥的 
+- ==Portugal (n.m.)== - le Portugal - 葡萄牙 - au Portugal - J'habit au Portugal; Je vais au Portugal 
+- Portugais(e) (n.) - 葡萄牙人 - un Portugais; une Portugaise
+- portugais(e) (adj.) - 葡萄牙的 
+- ==Iran (n.m)== - l’Iran - 伊朗 - en Iran - J'habit en Iran; Je vais en Iran 
+- Iranien(ne) (n.) - 伊朗人 - un Iranien; une Iranienne 
+- iranien(ne) (adj.) - 伊朗的
+- à (prép.) - 在，向，到，给；Ex: à maman; à Paris
+- ah (interj.) - 啊！唉！
+- assistant(e) (n.) - 
+- badge (n.m.) - 
+- café (n.m.) -
+- carte (n.f.) - 
 - carte de visite - 
-- cours - 
-- dans - 
-- dentiste - 
-- directeur(trice) -
-- en -
-- français - 
+- cours (n.m.) - 
+- dans (prép.) - 
+- dentiste (n.) - 
+- directeur(trice) (n.) -
+- en (prép.) -
+- français (n.m.) - 
 - Genève - 
-- ou - 
-- photographe -
-- professeur -
-- rendez-vous -
+- ou (conj.) - 
+- photographe (n.) -
+- professeur (n.m.) -
+- rendez-vous (n.m.) -
 - sur rendez-vous -
-- secrétaire -
-- s'il vous plaît -
-- sympa - 
-- sympathique - 
-- téléphone - 
-- thé - 
+- secrétaire (n.) -
+- s'il vous plaît (loc.) -
+- sympa (adj.) - 
+- sympathique (adj.) - 
+- téléphone (n.m.) - 
+- thé (n.m.) - 
 
 > [!tip]- 补充
 > 对于介词 à、en、au、aux
