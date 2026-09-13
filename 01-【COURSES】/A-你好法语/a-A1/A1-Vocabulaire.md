@@ -122,29 +122,29 @@
 - iranien(ne) (adj.) - 伊朗的
 - à (prép.) - 在，向，到，给；Ex: à maman; à Paris
 - ah (interj.) - 啊！唉！
-- assistant(e) (n.) - 
-- badge (n.m.) - 
-- café (n.m.) -
-- carte (n.f.) - 
-- carte de visite - 
-- cours (n.m.) - 
-- dans (prép.) - 
-- dentiste (n.) - 
-- directeur(trice) (n.) -
-- en (prép.) -
-- français (n.m.) - 
-- Genève - 
-- ou (conj.) - 
-- photographe (n.) -
-- professeur (n.m.) -
-- rendez-vous (n.m.) -
-- sur rendez-vous -
-- secrétaire (n.) -
-- s'il vous plaît (loc.) -
-- sympa (adj.) - 
-- sympathique (adj.) - 
-- téléphone (n.m.) - 
-- thé (n.m.) - 
+- assistant(e) (n.) - 助手，助理，副手
+- badge (n.m.) - 图形徽章，证章，胸卡
+- café (n.m.) - 咖啡；咖啡馆
+- carte (n.f.) - 卡片
+- carte de visite - 名片
+- cours (n.m.) - 课，课程
+- dans (prép.) - 在...里；处于...
+- dentiste (n.) - 牙医
+- directeur(trice) (n.) - 经理
+- en (prép.) - 在...（指地点）
+- français (n.m.) - 法语
+- Genève - 日内瓦（瑞士城市）
+- ou (conj.) - 或，或者，还是
+- photographe (n.) - 摄影师
+- professeur (n.m.) - 中学教师；大学教授；教员、教练
+- rendez-vous (n.m.) - 约会，预约
+- sur rendez-vous - 医生接待，预约就诊的病人
+- secrétaire (n.) - 秘书
+- s'il vous plaît (loc.) - 请，请您，请问
+- sympa (adj.) - 给人好感的，讨人喜欢的
+- sympathique (adj.) - 给人好感的，讨人喜欢的
+- téléphone (n.m.) - 电话，电话机
+- thé (n.m.) - 泡好的茶，茶叶
 
 > [!tip]- 补充
 > 对于介词 à、en、au、aux
