@@ -75,16 +75,16 @@
 > 第一人称：j'habite - nous habitons
 > 第二人称：tu habites - vous habitez
 > 第三人称：il/elle habite - ils/elles habitent
-- Chine - 
-- Chinois(e) - 
-- chinois(e) -
-- France - 
-- Français(e) -
-- français(e) - 
-- Belgique - 
-- Belge - 
-- belge - 
-- Italie - 
+- ==Chine (n.f.)== - la Chine - 中国 - en Chine - J'habite en Chine; Je vais en Chine
+- Chinois(e) (n.) - 中国人 - un Chinois; une Chinoise
+- chinois(e) (adj.) - 中国的
+- ==France (n.f.)== - la France - 法国 - en France - J'habite en France;  
+- Français(e) (n.) - 法国人 - un Français; une Française
+- français(e) (adj.) - 法国的 
+- ==Belgique (n.f.)== - la Belgique - 比利时 - en Belgique - J'habite en Belgique; Je vais en Belgique 
+- Belge (n.) - 比利时人 - un Belge; une Belge
+- belge (adj.) - 比利时的
+- Italie (n.f.) - l'Italie - 意大利 - en Italie  
 - Italien(ne) - 
 - italien(ne) -
 - Espagne - 
@@ -114,6 +114,9 @@
 - Portugal - 
 - Portugais(e) -
 - portugais(e) - 
+- Iran - 
+- Iranien(ne) - 
+- iranien(ne) -
 - à - 
 - ah - 
 - assistant(e) -
@@ -139,6 +142,15 @@
 - sympathique - 
 - téléphone - 
 - thé - 
+
+> [!tip]- 补充
+> 对于介词 à、en、au、aux
+> a 是用来连接城市名字的
+> en 是用来连接阴性国家名字的
+> au  = à + le(单音节定冠词，阳性单数) - 用来连接阳性单数国家名字的
+> aux = à + les(单音节定冠词，阳性复数) - 用来连接阳性复数国家名字的
+> 进阶：阳性国家如果以元音开头，通常也用 en
+> Ex: l'Iran - en Iran
 
 
 
