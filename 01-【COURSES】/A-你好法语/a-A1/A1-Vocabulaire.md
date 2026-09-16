@@ -169,7 +169,7 @@
 > 第一人称：j'ai - nous avons
 > 第二人称：tu as - vous avez
 > 第三人称：il/elle a  - ils/elles ont
-- parler () - 
+- parler (v.i.) - 说话，讲话，交谈；讲某种语言 
 > [!note]- 动词变位
 > 第一人称：je parle - nous parlons
 > 第二人称：tu parles - vous parlez
@@ -211,6 +211,58 @@
 - vous (pron.pers.) - 您，你们（用作主语或者宾语的同位语，表示加强语气）
 - 
 
+## LEÇON 4
+
+- aimer (v.t.) - 爱，热爱  
+> [!note]- 动词变位
+> 第一人称：j'aime - nous aimons
+> 第二人称：tu aimes - vous aimez
+> 第三人称：il/elle aime - ils/elles aiment
+- chercher (v.t.) - 找，寻找，寻觅 
+> [!note]- 动词变位
+> 第一人称：je cherche - nous cherchons
+> 第二人称：tu cherches - vous cherchez
+> 第三人称：il/elle cherche - ils/elles cherchent
+- aussi (adv.) - 也
+- beaucoup (adv.) - 很，非常，很多
+- Belgique (n.f.) - 比利时 - la Belgique
+- bientôt (adv.) - 不久，马上
+- à bientôt (loc.adv.) - 一会见，回头见 
+- boulanger(ère) (n.) - 面包师，面包商 - le boulanger; un boulanger - la boulangère; une boulangère
+- Bruxelles () - 布鲁塞尔（比利时首都）
+- Cayenne () - 卡宴（圭亚那的首都）
+- cinéma (n.m.) - 电影，电影艺术；电影院 - le cinéma; un cinéma
+- classique (adj.) - 古典的 
+- correspondance (n.f.) - 通信，通信联系，书信，信件 - la correspondance
+- correspondant(e) (n.) - 通信者，有信件往来者； - le correspondant; un correspondant - la correspondante; une ~
+- Dakar () - 达喀尔（塞内加尔首都）
+- danse (n.f.) - 舞蹈 - la danse 
+- de (prép) - （表示动作的起点，来源，由来）从，自
+- espagnol (n.m.) - 西班牙语 - le espagnol
+- Europe (n.f.) - 欧洲 
+- football (n.m.) - 足球 - le football - un football
+- frère (n.m.) - 兄弟 -  mon frère - un frère - le frère
+- golf (n.m.) - 高尔夫球运动
+- guyanais(e) () - 圭亚那的 
+- Lausanne () - 洛桑（瑞士城市）
+- lecture (n.f.) - 阅读 - la lecture - une lecture
+- littérature (n.f.) - 文学 - la littérature - une littérature
+- mère (n.f.) - 母亲，妈妈 - ma mère - à mère - la mère - une mère 
+- moi (pron.pers) - 我（用作主语或者宾语的同位语以加强语气）
+- monde (n.m.) - 世界 - le monde 
+- musique (n.f.) - 音乐，乐曲 - la musique; une musique
+- nature (n.f.) -  自然界，大自然 - la nature; une nature
+- père (n.m.) - 父亲，爸爸 - mon père - le père - un père
+- photo (n.f.) - 摄影，照片 - la photo - une photo
+- québécois(e) (adj.) - 魁北克的 - il est québécois  
+- Sénégal (n.m.) - 塞内加尔 - au Sénégal
+- Sénégalais(e) (n.) - 塞内加尔人
+- serveur(euse) (服务生，服务员) - le serveur; un serveur - la serveuse; une serveuse 
+- sœur (n.f.) - 姐妹 - la sœur - une sœur 
+- souvent (adv.) - 经常，常常 
+- sport (n.m.) - le sport; un sport
+- un peu (loc.adv.) - 一点儿，一下，少许，稍微
+- volley-ball (n.m.) - 排球，排球运动
 
 
 # UNITÉ 2
