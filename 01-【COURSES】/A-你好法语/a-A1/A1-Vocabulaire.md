@@ -75,6 +75,7 @@
 > 第一人称：j'habite - nous habitons
 > 第二人称：tu habites - vous habitez
 > 第三人称：il/elle habite - ils/elles habitent
+
 - ==Chine (n.f.)== - la Chine - 中国 - en Chine - J'habite en Chine; Je vais en Chine
 - Chinois(e) (n.) - 中国人 - un Chinois; une Chinoise
 - chinois(e) (adj.) - 中国的
@@ -120,26 +121,27 @@
 - ==Iran (n.m)== - l’Iran - 伊朗 - en Iran - J'habit en Iran; Je vais en Iran 
 - Iranien(ne) (n.) - 伊朗人 - un Iranien; une Iranienne 
 - iranien(ne) (adj.) - 伊朗的
+
 - à (prép.) - 在，向，到，给；Ex: à maman; à Paris
 - ah (interj.) - 啊！唉！
-- assistant(e) (n.) - 助手，助理，副手
+- assistant(e) (n.) - 助手，助理，副手 - （l'assistant; l'assistante）
 - badge (n.m.) - 图形徽章，证章，胸卡
 - café (n.m.) - 咖啡；咖啡馆
-- carte (n.f.) - 卡片
+- carte (n.f.) - 卡片 - la carte
 - carte de visite - 名片
-- cours (n.m.) - 课，课程
+- cours (n.m.) - 课，课程 - le cours - le cours de français
 - dans (prép.) - 在...里；处于...
-- dentiste (n.) - 牙医
-- directeur(trice) (n.) - 经理
+- dentiste (n.) - 牙医 - le dentiste; un dentiste - la dentiste; une dentiste - (阴阳同型)
+- directeur(trice) (n.) - 经理 - le directeur; un directeur - la directrice; une directrice 
 - en (prép.) - 在...（指地点）
 - français (n.m.) - 法语
 - Genève - 日内瓦（瑞士城市）
 - ou (conj.) - 或，或者，还是
-- photographe (n.) - 摄影师
-- professeur (n.m.) - 中学教师；大学教授；教员、教练
+- photographe (n.) - 摄影师 - le photographe; un photographe - la photographe; une photographe - (阴阳同型)
+- professeur (n.m.) - 中学教师；大学教授；教员、教练 - （只有阳性）- le professeur; la femme professeur
 - rendez-vous (n.m.) - 约会，预约
 - sur rendez-vous - 医生接待，预约就诊的病人
-- secrétaire (n.) - 秘书
+- secrétaire (n.) - 秘书 - le secrétaire; un secrétaire - la secrétaire; une secrétaire - (阴阳同型)
 - s'il vous plaît (loc.) - 请，请您，请问
 - sympa (adj.) - 给人好感的，讨人喜欢的
 - sympathique (adj.) - 给人好感的，讨人喜欢的
