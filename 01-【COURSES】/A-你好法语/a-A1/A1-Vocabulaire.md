@@ -68,9 +68,9 @@
 - vous (pron.pers.) - 您，你们（做主语）
 - océan - 海洋
 
-## LEÇON 1
+## LEÇON 2
 
-- habiter - 居住（在）
+- habiter (v.) - 居住（在）
 > [!note]- 动词变位
 > 第一人称：j'habite - nous habitons
 > 第二人称：tu habites - vous habitez
@@ -157,8 +157,59 @@
 > 进阶：阳性国家如果以元音开头，通常也用 en
 > Ex: l'Iran - en Iran
 
+## LEÇON 3
 
-
+- aller (v.i.) - 去，走；处于...的健康状态；运转，进行，进展
+> [!note]- 动词变位
+> 第一人称：je vais - nous allons
+> 第二人称：tu vas - vous allez
+> 第三人称：il/elle va - ils/elles vont
+- avoir (v.t.) - 有，拥有，具有，享受，带有 
+> [!note]- 动词变位
+> 第一人称：j'ai - nous avons
+> 第二人称：tu as - vous avez
+> 第三人称：il/elle a  - ils/elles ont
+- parler () - 
+> [!note]- 动词变位
+> 第一人称：je parle - nous parlons
+> 第二人称：tu parles - vous parlez
+> 第三人称：il/elle parle - ils/elles parlent
+- adresse (n.f.) - 地址，住址；- la adresse; une adresse 
+- âge (n.m.) - 年龄，年纪；- le âge; un âge
+- alors (adv.) - 那么，在这种情况下
+- ami(e) (n.) - 朋友 
+- an (n.m) - 年、岁 
+- au revoir (loc.) - 再见，再会
+- avec (prép) - 和...一起
+- bébé (n.m.) - 婴儿，孩子，宝宝；- le bébé; un bébé
+- bien (adv.) - 好
+	- Ex：Tout va bien；一切都会好的
+- bon(ne) (adj.) - 好的，良好的，恰当的，正确的
+- ça (pron.dém) - 这个，那个，指示代词
+- Canada (n.m.) - 加拿大 - au Canada
+- comment (adv.interr.) - 如何，怎么，怎样 
+- e-mail (n.m.) - 电子邮件 - le e-mail; un e-mail
+- fille (n.f.) - 女孩，姑娘；女儿 - une fille；la fille
+- fils (n.m.) - 儿子 - un fils; le fils
+- garçon (n.m.) - 男孩，小伙子 - un garçon; le garçon
+- hôtel (n.m.) - 宾馆，大饭店 - le hôtel; un hôtel
+- journée (n.f.) - 一天，一昼夜，白天，白昼 
+- Bonne journée - 祝一天愉快
+- maintenant (adv.) - 现在，目前
+- merci (interj.) - 谢谢！
+- Montréal () - 蒙特利尔
+- Notre-dame (n.f.inv.) - 圣母院 
+- nuit (n.f.) - 夜，夜晚，夜间
+- Bonne nuit - 晚安
+- numéro (n.m.) - 号，号数，号码 - le numéro; un numéro
+- Paris - 巴黎
+- profession (n.f.) - 职业 - la profession; une profession
+- quel(le) (adj,interr.) - 什么样的，哪一类的
+- rue (n.f.) - 街道，街，马路 - dans la rue
+- salut (interj.) - 与朋友交谈或者离开他们的时候的你好，再见
+- toi (pron.pers.) - 你（用作主语或者宾语的同位语，表示加强语气）
+- vous (pron.pers.) - 您，你们（用作主语或者宾语的同位语，表示加强语气）
+- 
 
 
 
