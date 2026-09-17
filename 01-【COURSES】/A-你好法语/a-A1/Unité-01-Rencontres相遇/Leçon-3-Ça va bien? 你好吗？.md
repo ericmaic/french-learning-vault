@@ -30,7 +30,7 @@
 - Il a un an...
 - Eh bien, bonne journée, madame Lebon.
 - Vous aussi, monsieur Legrand, au revoir. 
-- Vous aussi, monsieur Legrand, au revoir
+- vous aussi
 
 
 
