@@ -4,7 +4,7 @@
 
 - Salut，Céline, tu vas bien?
 - Oui, ça va bien. Et toi?
-- Je vais bien, merci... J' habite à Montréal, maintenant, avec ma femme.
+- Je vais bien, merci... J'habite à Montréal, maintenant, avec ma femme.
 - Au Canada?
 - Oui, oui, au Canada.
 - Ah! C'est bien. Et quelle est ton adresse?
