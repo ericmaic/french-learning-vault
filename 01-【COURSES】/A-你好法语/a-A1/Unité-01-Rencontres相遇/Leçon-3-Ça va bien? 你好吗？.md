@@ -32,11 +32,29 @@
 - Vous aussi, monsieur Legrand, au revoir. 
 - vous aussi
 
+# 补充知识
 
+## an(n.m.) 年岁 
 
+- un an 
+- deux ans
+- trois ans
+- quatre ans
+- cinq ans
+- six ans
+- sept ans
+- huit ans
+- neuf ans
+- dix ans
+## ami(n.m.) 朋友
 
+- petit-ami: 男朋友 
+- petite-amie：女朋友
 
+## avec(prép) 和...一起
 
+- Je vais à Paris avec Sophie
+- 
 
 
 
