@@ -269,16 +269,59 @@
 
 ## LEÇON 5
 
-- affiche (n.f.) - l'affiche - 
-- assiette (n.f.) - l'assiette - 
-- au-dessous
-- au-dessus
-- avec
-- blouson (n.m.) - le blouson
-- chaise (n.f.) - la chaise
-- chambre (n.f.) - la chambre
-- chapeau (n.m.) - le chapeau
-- chat/chate (n.) - le chat - la chatte
-- chien
-- contre ()
-- liternature  
+- trouver (v.t.) - 找到，发现
+> [!note]- 动词变位
+> 第一人称：je trouve       -  nous trouvons
+> 第二人称：tu trouves      -  vous trouves
+> 第三人称：il/elle trouve. -  ils/elles trouvent
+> 
+- affiche (n.f.) - 海报，广告 - l'affiche - une affiche
+- assiette (n.f.) - 盘子 - l'assiette - une assiette
+- avec (prép) - 具有，带有
+- blouson (n.m.) - 夹克衫 - un blouson; le blouson
+- chapeau (n.m.) - 帽子 - un chapeau; le chapeau
+- chaise (n.f.) - 椅子 - la chaise - une chaise
+- chambre (n.f.) - 房间，卧室 - la chambre - une chambre
+- chat(te) (n.) - 猫 - le chat; un chat - la chatte; une chatte
+- cuillère (n.f.) - 勺，匙 - une cuillère ; la cuillère
+- de (prép) - 表示所属，所有 
+- étagère (n.f.) - （固定在墙上的）格，隔板，架子，多层架子 - l'étagère; une étagère
+- fauteuil (n.m.) - 扶手椅 - un fauteuil ; le fauteuil
+- fenêtre (n.f.) - 窗，窗子，窗户，玻璃窗 - une fenêtre ; la fenêtre
+- fleur (n.f.) - 花 - la fleur ; une fleur 
+- là (interj.) - 得啦，好啦，呦，瞧
+- lit (n.m.) - 床 - le lit; un lit
+- livre (n.m.) - 书，书本，书籍 - le livre ; un livre
+- meuble (n.m.) - 家具 - un meuble ; le meuble 
+- mur (n.m.) - 墙、壁 - un mur; le mur
+- nounours (n.m.) -  小熊毛绒玩偶 - le nounours ; un nounours
+- objet (n.m.) - 物体，物，物品，东西 - le objet ; un objet
+- oh (interj.) - 啊，哦，哎呀 - oh là là là
+- ordinateur (n.m.) - 电脑 - un ordinateur ; l'ordinateur 
+- pièce (n.f.) - 房间 - la pièce ; une pièce
+- pomme (n.f.) - 苹果 - la pomme ; une pomme
+- porte (n.f.) - 门 -  la porte ; une porte
+- que (pron.interr.) - 什么
+- sac (n.m.) - 包 - un sac ; le sac
+- table (n.f.) - 桌子 - une table ; la table
+- tapis (n.m.) - 地毯 - un tapis ; le tapis 
+- vase (n.m.) - 花瓶 - un vase ; le vase
+- verre (n.m.) - 玻璃杯 - un verre ; le verre
+- voilà (prép) - 那就是，这就是
+
+- au-dessous (loc.adv) - 在下面（below） - Il est au-dessous
+- au-dessous de (loc.prép) - 在下面 - Le chat est au-dessous de la table
+- au-dessus (loc.adv) - 在上面 （above）- Elle est au-dessus 
+- au-dessue de (loc.prép) - 在上面 - Le lampe est au-dessus de la table
+- sous (prép) - 在...下面（under）- Le vase est sous la table
+- sur (prép) - 在...上面（on）- La pomme est sur la table
+- contre (prép) - 靠，挨 -
+- côté (n.m) - 旁，侧
+- à côté (de) - 在（...的)旁边
+- devant (prép) - 在...前面
+- droite (n.f.) - 右边，右面，右方
+- à droite (de) - 在（...的）右边
+- gauche (n.f.) - 左边，左面，左方
+- à gauche (de) - 在（...的）左边
+- il y a () - 有...
+- 
